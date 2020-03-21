@@ -1,0 +1,2102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Youtube videos to wordpress posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-19 23:57+0100\n"
+"PO-Revision-Date: 2016-01-19 23:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: youtube-videos-to-wordpress-posts\n"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/resources/jquery-ui/jquery-ui.min.js:8
+msgid "'"
+msgstr "'"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/BrokenVideoController.php:35
+msgid "Finished checking broken videos"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:215
+msgid "Done importing videos."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:261
+msgid "Published after date must be less than the published before date"
+msgstr "Публикаций после даты должно быть меньше, чем публикаций до даты"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:266
+msgid "This import already exist"
+msgstr "Этот импорт уже осуществлен"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:268
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:397
+msgid "Load"
+msgstr "Загрузка"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:292
+msgid "You'll be redirected in a moment"
+msgstr "Сейчас Вы будете перенаправлены"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:322
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:14
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:13
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:28
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:209
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:379
+msgid "Comments"
+msgstr "Комментарии"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:324
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:249
+msgid "View on Youtube"
+msgstr "Просмотры на YouTube"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:325
+msgid "View on website"
+msgstr "Просмотры на Сайте"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:326
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/BrokenVideo.php:159
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:176
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:210
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:256
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:19
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:26
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:42
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:18
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:25
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:41
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:31
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:46
+msgid "Edit"
+msgstr "Редактировать"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:328
+msgid "Video imported succefully"
+msgstr "Видео успешно импортировано"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:331
+msgid "Video skipped [Exist]"
+msgstr "Видео пропущено [Существует]"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:365
+msgid "you have attaint Max videos "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:377
+msgid "Last video Processed => "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:401
+msgid "Done importing videos, Max imported videos excessed"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:440
+msgid "Bulk import has been finished"
+msgstr "Массовый импорт завершен"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:443
+msgid ""
+"Youtube API v3 limits the number of paginated results in the search query to "
+"500, you can check this <a target='_blank' href='https://code.google.com/p/"
+"gdata-issues/issues/detail?id=4282'>link</a> for info on the issue."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/ImportController.php:471
+msgid " => Done importing videos, Max imported videos excessed"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:32
+msgid "Invalid Settigns"
+msgstr "Неверные настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:166
+msgid "Invalid Google developper key : "
+msgstr "Неверный ключ разработчика Google:"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:207
+msgid "Settings imported successfully"
+msgstr "Настройки успешно импортированы"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:213
+msgid "Invalid settings."
+msgstr "Неверные настройки."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:220
+msgid "The selected file is empty."
+msgstr "Выбранный файл пустой."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:226
+msgid "File type is not supported or is larger than 1Mb."
+msgstr "Тип файла не поддерживается или он больше 1Мб."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:233
+msgid "Error while uploading the file."
+msgstr "Ошибка при загрузке файла."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/SettingsController.php:264
+msgid "Error Downloading file."
+msgstr "Ошибка скачивания файла."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Controllers/UtilsController.php:33
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:69
+msgid "Invalid user login"
+msgstr "Недопустимый логин пользователя"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:232
+msgid "You need to set your Google developer key to use the plugin"
+msgstr ""
+"Вам необходимо настроить ваш Google developer key для использования плагина"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:232
+msgid "Click here to change"
+msgstr "Щелкните здесь, чтобы изменить"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:234
+msgid "Channel"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:235
+msgid "Playlist"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:236
+msgid "User"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:237
+msgid "Search query"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:238
+msgid "Single video"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:242
+msgid "Paginate Import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:243
+msgid "Bulk Import"
+msgstr "Массовый импорт"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:244
+msgid "Scheduled Import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:248
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:154
+msgid "Scheduling videos import"
+msgstr "Планировка импорта видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:249
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:189
+msgid "Normal videos import"
+msgstr "Нормальный импорт видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:250
+msgid "Comment import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:251
+msgid "DataBase Errors"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:252
+msgid "Youtube API Errors"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:256
+msgid "Daily"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:257
+msgid "Twice daily"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:258
+msgid "Hourly"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:259
+#: youtube-videos-to-wordpress-posts/youtube-videos-to-wordpress-posts.php:136
+msgid "Once Every 30 Minutes"
+msgstr "Каждые 30 Минут"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:260
+#: youtube-videos-to-wordpress-posts/youtube-videos-to-wordpress-posts.php:140
+msgid "Once Every 15 Minutes"
+msgstr "Каждые 15 Минут"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:261
+#: youtube-videos-to-wordpress-posts/youtube-videos-to-wordpress-posts.php:144
+msgid "Once Every 5 Minutes"
+msgstr "Каждые 5 Минут"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:265
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:274
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:281
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:288
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:295
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:302
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:315
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:322
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:328
+msgid "select"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:266
+msgid "date"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:267
+msgid "rating"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:268
+msgid "relevance"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:269
+msgid "title"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:270
+msgid "view count"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:275
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:284
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:342
+msgid "none"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:276
+msgid "moderate"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:277
+msgid "strict"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:282
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:289
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:296
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:303
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:311
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:316
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:323
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:329
+msgid "any"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:283
+msgid "closedCaption"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:290
+msgid "high"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:291
+msgid "standard"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:297
+msgid "2d"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:298
+msgid "3d"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:304
+msgid "long"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:305
+msgid "medium"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:306
+msgid "short"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:310
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:324
+msgid "true"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:317
+msgid "creativeCommon"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:318
+msgid "youtube"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:330
+msgid "episode"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:331
+msgid "movie"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:335
+msgid "Approved"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:336
+msgid "Unapproved"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:337
+msgid "Spam"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:338
+msgid "Trash"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:343
+msgid "Author Google plus Profile Url"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:344
+msgid "Author Channel Url"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:348
+msgid "Youtube published date"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:349
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:17
+msgid "Insert date"
+msgstr "Актуальная дата"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:354
+msgid "Time "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:355
+msgid "Relevance "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:359
+msgid "Html"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:360
+msgid "Plain Text"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:364
+msgid "Video Deleted"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:365
+msgid "Failed upload video"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:366
+msgid "Video Rejected"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:367
+msgid "Private Video"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:368
+msgid "Unlisted Video"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Config.php:369
+msgid "Video Embeding is not allowed"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Master.php:49
+msgid "Unknow error, see error_log for more details"
+msgstr ""
+"Неизвестная ошибка, см. функцию error_log для более подробной информации"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:257
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:317
+msgid "Youtube Videos to Wordpress Posts"
+msgstr "Автопостер из YouTube"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:257
+msgid "You need to set a Google developer key"
+msgstr "Вам необходимо настроить Google developer key"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:262
+msgid "Go to set Google developper key"
+msgstr "Зайдите в настройки Google developper key"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:267
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:284
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:304
+msgid "Dismiss message"
+msgstr "Отклонить сообщение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:281
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/YoutubeAPI.php:154
+msgid ""
+"Youtube Videos to Wordpress Posts requires the PHP OpenSSL extension . Make "
+"sure it's installed."
+msgstr ""
+"Для Youtube видео в Wordpress записях требуется расширение PHP OpenSSL. "
+"Убедитесь, что оно установлено."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:300
+msgid ""
+"Youtube Videos to Wordpress Posts : Probably you may have a conflict with "
+"other users. Your import settings \n"
+"                            can be deleted or changed,  because this demo is "
+"shared with other users at the same time."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:318
+msgid "New import"
+msgstr "Новый импорт"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:319
+msgid "Import settings"
+msgstr "Настройки импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:319
+msgid "Default import settings"
+msgstr "Настройки импорта по умолчанию"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:321
+msgid "Settings"
+msgstr "Настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:322
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:105
+msgid "Broken videos checker"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/PluginManager.php:323
+msgid "Log system"
+msgstr "Лог система"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Response.php:11
+msgid "Done"
+msgstr "Сделано"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/Shortcodes.php:29
+msgid "Invalid Youtube URL"
+msgstr "Недопустимый Youtube URL"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/System/YoutubeDuration.php:20
+msgid ""
+"The specified value is not a Youtube API duration format. Should be "
+"(PT1H20M10S)."
+msgstr ""
+"Указанное значение не соответствует формату длительности Youtube API. Должно "
+"быть (PT1H20M10S)."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/BrokenVideo.php:91
+msgid "No result , Http error code "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/BrokenVideo.php:158
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:175
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:209
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:255
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:18
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:25
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:41
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:17
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:24
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:40
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:30
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:45
+msgid "View"
+msgstr "Просмотры"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/BrokenVideo.php:160
+msgid "Delete Permanently"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/ImportModel.php:110
+msgid "You'll be redirected in a moment!"
+msgstr "Сейчас Вы будете перенаправлены!"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:136
+msgid "Scheduling import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:220
+msgid "DB Errors : "
+msgstr "DB ошибки:"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:230
+msgid "Youtube API Errors : "
+msgstr "Youtube API ошибки: "
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/LogModel.php:257
+msgid "Attached post"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoCommentToPostComment.php:130
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:411
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:539
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:266
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:269
+msgid "Imported"
+msgstr "Импортировано"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoCommentToPostComment.php:164
+msgid "Not contain search term"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoCommentToPostComment.php:175
+msgid "Comment Imported"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoCommentToPostComment.php:197
+msgid "Error while saving the comment"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoCommentToPostComment.php:213
+msgid "Comment Updated"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:399
+msgid "View on youtube"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:473
+msgid "Skipped,[Title Exists]"
+msgstr "Пропущено [Заголовок Существует]"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:494
+msgid "Skipped,[Exist]"
+msgstr "Пропущено [Существуют]"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:544
+msgid "Skipped, [Max imported videos excessed]"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:571
+msgid "Error while saving the post "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:604
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:267
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:270
+msgid "Updated"
+msgstr "Обновлено"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/VideoToPost.php:624
+msgid "Error while updating the post "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/YoutubeAPI.php:123
+msgid "Invalid video key"
+msgstr "Неверный ключ видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/YoutubeAPI.php:178
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:339
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:162
+msgid "No result"
+msgstr "Нет результата"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/YoutubeAPI.php:190
+msgid "Invalid Youtube API response"
+msgstr "Неверный ответ от Youtube API"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/Models/Youtube/YoutubeAPI.php:199
+msgid "Cannot read from Youtube API, `wp_remote_get` error"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:12
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:53
+msgid "Note"
+msgstr "Заметка"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:14
+msgid ""
+"You can use this page to update all single video imports using the same "
+"settings."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:24
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:31
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:14
+msgid "General Options"
+msgstr "Общие Настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:25
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:32
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:15
+msgid "Embed Options"
+msgstr "Опции Встраивания"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:26
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:33
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:16
+msgid "Title & Description Options"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:27
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:17
+msgid "Date Options"
+msgstr "Настройки Даты"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:28
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:18
+msgid "Comments Options"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/all_single_videos_import.php:57
+msgid "Save Settings"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:97
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:175
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:198
+msgid "Bulk import has been stopped"
+msgstr "Массовый импорт был остановлен"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:128
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:227
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:230
+msgid "Start"
+msgstr "Начать"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:129
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:228
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:231
+msgid "Stop"
+msgstr "Остановить"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:134
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:236
+msgid "Processed videos: "
+msgstr "Обработанные видео:"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:145
+msgid "Cancel"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:200
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:220
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:12
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:145
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:193
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:216
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:41
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:21
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:44
+msgid "Alert"
+msgstr "Тревога"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:201
+msgid "This will cancel the current check"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:221
+msgid "This will removed the video and its attached content"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:285
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:291
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:126
+msgid "Items"
+msgstr "Элементы"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:287
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:293
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:128
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:65
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:289
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:295
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:130
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:67
+msgid "Select a page"
+msgstr "Выбор страницы"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:290
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:296
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:131
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:68
+msgid "Current page"
+msgstr "Текущая страница"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:291
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:297
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:132
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:69
+msgid "Of"
+msgstr "Из"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:293
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:299
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:134
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:71
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:306
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:147
+msgid "Date "
+msgstr "Дата"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:309
+msgid "Video"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:312
+msgid "Status"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:315
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:327
+msgid "Actions"
+msgstr "Действия"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/broken_video_checker.php:327
+msgid "No Broken videos"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:13
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:146
+msgid "Do you really want to reset to default settings?"
+msgstr "Вы действительно хотите сбросить в настройки по умолчанию?"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:14
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:147
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:218
+msgid "Ok"
+msgstr "Хорошо"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:28
+msgid "Default Import Settings"
+msgstr "Параметры Импорта по умолчанию"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:38
+msgid "Reset Default"
+msgstr "Сбросить по умолчанию"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:40
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:85
+msgid "Import/Export Settings"
+msgstr "Настройки Имп/Эксп"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/default_import_settings.php:62
+msgid "Save Changes"
+msgstr "Сохранить Изменения"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/file_settings_download.php:3
+msgid "Your file settings is located at => "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/file_settings_download.php:6
+msgid ""
+"If you have any problem downloading the file, you can access it directly "
+"using FTP on the path above."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/file_settings_download.php:10
+msgid "Click here to download"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/file_settings_download.php:26
+msgid ""
+"Error while writing to the uploads directory, make sure you have that the "
+"directory is writable and the user has access to it."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:164
+msgid "General Settings"
+msgstr "Основные Настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:165
+msgid "Scheduling Settings"
+msgstr "Настройки планировщика"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:166
+msgid "Videos microdata Settings"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:167
+msgid "Youtube API settings"
+msgstr "Youtube API настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:171
+msgid "Reset Settings"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/general_settings.php:190
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:87
+msgid "Submit changes"
+msgstr "Сохранить изменения"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:18
+msgid "Channels"
+msgstr "Каналы"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:26
+msgid "New Channel"
+msgstr "Новый Канал"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:45
+msgid "Playlists"
+msgstr "Плэйлисты"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:53
+msgid "New Playlist"
+msgstr "Новый Плэйлист"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:72
+msgid "Users"
+msgstr "Пользователи"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:80
+msgid "New User"
+msgstr "Новый Пользователь"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:99
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:111
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:114
+msgid "Search Query"
+msgstr "Поиск. Запрос"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:107
+msgid "New Search Query"
+msgstr "Новый Поиск. Запрос"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:126
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:63
+msgid "Videos"
+msgstr "Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:134
+msgid "New Video"
+msgstr "Новое Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:194
+msgid ""
+"This will delete all content (posts, pages, etc) related to this import. "
+"Continue?"
+msgstr ""
+"Будет удален весь контент (записи, страницы, и т. д.), связанные с этим "
+"импортом. Продолжить?"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:217
+msgid "This will delete cached videos. Continue?"
+msgstr "Будут удалены кэшированные видео. Продолжить?"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:277
+msgid "Select Feed Type"
+msgstr "Выберите тип Источника"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:278
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:113
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:265
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:268
+msgid "All"
+msgstr "Все"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:285
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:120
+msgid "Filter"
+msgstr "Фильтр"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:312
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:47
+msgid "Feed Type"
+msgstr "Тип Источника"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:315
+msgid "Feed Name"
+msgstr "Название Источника"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:318
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:140
+msgid "Import type"
+msgstr "Тип Импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:321
+msgid "Total Videos"
+msgstr "Всего Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:324
+msgid "Videos Imported"
+msgstr "Импортировано Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:396
+msgid "Load Feed"
+msgstr "Загрузить с Источника"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:402
+msgid "Clear cache"
+msgstr "Очистить Кэш"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:403
+msgid "Clear Cache"
+msgstr "Очистить Кэш"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:408
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:235
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:300
+msgid "Remove"
+msgstr "Удалить"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/index.php:441
+msgid "Update all single video imports"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:42
+msgid "This will delete all logs"
+msgstr "Это позволит удалить все журналы"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:102
+msgid "Clear log"
+msgstr "Очистить Log"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:112
+msgid "Select Log Type"
+msgstr "Выбор типа Лога"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/log.php:150
+msgid "Message"
+msgstr "Сообщение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:13
+msgid "Feed Options"
+msgstr "Источник Импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:19
+msgid "Seo Options"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:60
+msgid "Save and Import Feed"
+msgstr "Сохранить и Импортировать"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/new_import.php:62
+msgid "Save Import Settings"
+msgstr "Сохранить настройки Импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:90
+msgid ""
+"You can transfer the import settings between different installs by "
+"generating your import settings and uploading them to a new installation, "
+"then click \"Import Settings\" to apply changes."
+msgstr ""
+"Вы можете перенести импортировать настройки между различными установками "
+"генерируемыми вашими настройками импорта и загружать их в новую установку. "
+"Для этого нажмите \"Настройки импорта\", чтобы применить изменения."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:97
+msgid "Select File .txt or .json"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:103
+msgid "Import Settings"
+msgstr "Импорт настроек"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:126
+msgid "Click here to download import settings"
+msgstr "Нажмите сюда, чтобы скачать Импортированные настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:130
+msgid "OR"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:132
+msgid "Click here to export as text"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_export_settings.php:137
+msgid ""
+"Select all the content in the box above and paste it in a text file that you "
+"can used after"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:233
+msgid "Imported videos: "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:259
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:262
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/scheduled_import.php:14
+msgid "View logs for more details."
+msgstr "Посмотрите логи для подробной информации."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import.php:268
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/bulk_import_all_single_videos.php:271
+msgid "Skipped"
+msgstr "Пропущено"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:15
+msgid "Enable comments import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:19
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:119
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:200
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:46
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:55
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:46
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:88
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:135
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:188
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:20
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:17
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:36
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:49
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:76
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:92
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:107
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:120
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:15
+msgid "No"
+msgstr "Нет"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:20
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:120
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:201
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:45
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:54
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:45
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:87
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:136
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:189
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:19
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:16
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:35
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:48
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:75
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:91
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:108
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:121
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:16
+msgid "Yes"
+msgstr "Да"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:33
+msgid "Set comment status to"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:50
+msgid "Set Comment type to"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:63
+msgid "Comment author url"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:80
+msgid "Comment date"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:94
+msgid "Youtube comments filter"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:101
+msgid "Max imported comments"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:115
+msgid "Import comment replies"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:124
+msgid "Max"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:133
+msgid "Order by"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:149
+msgid "Comment text format"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:165
+msgid "Search term"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:172
+msgid "Import comments that contain a specified term."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:180
+msgid "Comment Published After"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:190
+msgid "Comments synchronization"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:196
+msgid "Enable comments synchronization"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:211
+msgid "Max checks per day for evry video comments"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:223
+msgid "Time to wait between every check (by hours)"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/comment_options.php:233
+msgid ""
+"You can keep comments synced to your website, similar to the sync option we "
+"use on videos. We will check for new posted comments every time a user visit "
+"the video page on your website, and you can set a limit to the number of "
+"checks per day."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:13
+msgid "Set post publish date to"
+msgstr "Дата публикации как"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:18
+msgid "Video publish date"
+msgstr "Дата публикации Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:19
+msgid "Custom publish date"
+msgstr "Пользовательская дата публикации"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:32
+msgid "Publish start date"
+msgstr "Дата начала публикации"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:36
+msgid "Random min value"
+msgstr "Случайное минимальное значение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:37
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:41
+msgid "Minutes"
+msgstr "Минуты"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:40
+msgid "Random max value"
+msgstr "Случайное максимальное значение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/date_options.php:50
+msgid ""
+"This option is useful for Bulk Import where you can set a custom date range "
+"to use for publishing posts."
+msgstr ""
+"Эта опция полезна для массового импорта, когда вы можете установить диапазон "
+"дат для публикации записей."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:12
+msgid "Delete description keywords"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:24
+msgid "Replace description keywords"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:30
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/title_options.php:32
+msgid "By"
+msgstr "на"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:41
+msgid "Delete description URLs"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/description_options.php:50
+msgid "Import description as post excerpt"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:22
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:45
+msgid "Delete Key?"
+msgstr "Удалить Ключ?"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:148
+msgid "Manage content"
+msgstr "Управление контентом"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:154
+msgid "Format"
+msgstr "Формат"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:175
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/script_js.php:333
+msgid "Add"
+msgstr "Добавить"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:187
+msgid "Manage Custom Fields"
+msgstr "Управление пользовательскими полями"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:198
+msgid "Custom field name"
+msgstr "Название пользовательского поля"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:204
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:279
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/tags_options.php:21
+msgid "As"
+msgstr "Как"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:209
+msgid "Custom field value"
+msgstr "Значение Пользовательского поля"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:223
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:288
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:46
+msgid "Video fields"
+msgstr "Видео поля"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:245
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:246
+msgid "Add New Custom Field"
+msgstr "Добавить новое пользовательское поле"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/embed_options.php:252
+msgid ""
+"If your theme is based on custom fields to manage videos, this section lets "
+"you easily add a custom value or a video field to your theme custom fields. "
+"You'll need to know what custom fields your theme requires."
+msgstr ""
+"Если ваша тема основана на пользовательских полях для управления видео, в "
+"этом разделе вы можете легко добавлять пользовательские значения или видео "
+"поле для пользовательских полей вашей темы. Вы должны знать, какие "
+"пользовательские поля использует ваша тема."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:15
+msgid "Feed Title"
+msgstr "Заголовок Источника"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:21
+msgid "Optional: Use this to remember this import."
+msgstr "Дополнительно: Используйте это, чтобы запомнить этот импорт."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:32
+msgid "Max videos to import"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:66
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:69
+msgid "Chanel ID"
+msgstr "ID канала"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:81
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:84
+msgid "Playlist ID"
+msgstr "ID плэйлиста"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:96
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:99
+msgid "User ID"
+msgstr "ID пользователя"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:123
+msgid "Single Video"
+msgstr "Одиночное Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:126
+msgid "Video Key"
+msgstr "Ключ Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:160
+msgid "Import videos published after"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:175
+msgid ""
+"When activating this option, new posted videos are automatically added to "
+"your website."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:177
+msgid "Note 1 "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:177
+msgid ": Make sure that you configured and activated the scheduling import in"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:178
+msgid "Settings => Scheduling settings."
+msgstr "Настройки => Настройки планировщика."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:182
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:187
+msgid "Note 2 "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:182
+msgid ""
+": Make sure that the setting \"Update if exist\" is set to \"No\" in the tab"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:183
+msgid "General options"
+msgstr "Общие настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:184
+msgid ", This will economize your server resources. "
+msgstr ", Это сэкономит ваши ресурсы сервера."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:187
+msgid ""
+": Before setting a schedule import, make sure that you're importing all "
+"existing videos with a Bulk import and have set the published after date "
+"value in the settings above."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:188
+msgid " This will economize your server resources, and the Youtube API quota."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:198
+msgid "Advanced Videos Filter"
+msgstr "Расширенные Видео-фильтры"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:210
+msgid "Published After"
+msgstr "Опубликовать После"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:218
+msgid "Published Before"
+msgstr "Опубликовать Перед"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:226
+msgid "Order By"
+msgstr "Сортировать по"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:239
+msgid "Region Code"
+msgstr "Код Региона"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:243
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:256
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:301
+msgid "Select"
+msgstr "Выбрать"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:252
+msgid "Relevance Language"
+msgstr "Актуальный Язык"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:265
+msgid "Safe Search"
+msgstr "Безопасный Поиск"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:277
+msgid "Topic ID"
+msgstr "ID раздела"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:285
+msgid "Video Caption"
+msgstr "Надпись Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:297
+msgid "Video Category"
+msgstr "Категория Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:315
+msgid "Video Definition"
+msgstr "Определение Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:327
+msgid "Video Dimension"
+msgstr "Размер Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:339
+msgid "Video Duration"
+msgstr "Длительность Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:351
+msgid "Video Embeddable"
+msgstr "Встраиваемость Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:363
+msgid "Video License"
+msgstr "Лицензия Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:375
+msgid "Video Syndicated"
+msgstr "Синдицированность Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:387
+msgid "Video Type"
+msgstr "Тип Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:406
+msgid "Comment on this import"
+msgstr "Комментарий к этому импорту"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/feed_options.php:413
+msgid "help message"
+msgstr "справка"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:14
+msgid "Import As"
+msgstr "Импортировать как"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:27
+msgid "Post status"
+msgstr "Статус записи"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:31
+msgid "Published"
+msgstr "Опубликована"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:32
+msgid "Draft"
+msgstr "Черновик"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:33
+msgid "Pending"
+msgstr "На утверждении"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:34
+msgid "Private"
+msgstr "Личная"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:40
+msgid "Import Featured Image"
+msgstr "Импорт Дополнительных изображений"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:61
+msgid "Author"
+msgstr "Автор"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:74
+msgid "Max Page Results"
+msgstr "Максимум Страниц в Результатах"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:83
+msgid "Update if exist"
+msgstr "Обновить, если существует"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:97
+msgid "Select taxonomy for categories"
+msgstr "Выберите таксономии для категорий"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:101
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:147
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/script_js.php:148
+msgid "Select a taxonomy"
+msgstr "Выберите таксономии"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:106
+msgid "taxonomy categories"
+msgstr "таксономии категорий"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:114
+msgid "Categories"
+msgstr "Категории"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:131
+msgid "Import youtube categories"
+msgstr "Импорт YouTube категорий"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:143
+msgid "Select taxonomy for tags"
+msgstr "Выберите таксономии для тегов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:160
+msgid "Select tags"
+msgstr "Выберите тэги"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:164
+msgid "Add new Tag"
+msgstr "Добавить новый Тэг"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:176
+msgid "Tags "
+msgstr "Тэги"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:184
+msgid "Import Youtube tags"
+msgstr "Импорт Youtube тэгов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:195
+msgid "Max Youtube tags"
+msgstr "Максимум Youtube тэгов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/general_options.php:203
+msgid "This post type doesn't contain any taxonomy"
+msgstr "Этот тип записи не содержит таксономии"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:14
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:87
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:38
+msgid "Import selected"
+msgstr "Импортировать выбранное"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:81
+#, php-format
+msgid "Sleeping for %s seconds!"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:132
+msgid "No selected videos"
+msgstr "Не выбраны Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:146
+msgid "Try again"
+msgstr "Попробуйте снова"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:160
+msgid "This is a cached result!"
+msgstr "Это кэшированный результат!"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:175
+msgid "Video Title"
+msgstr "Заголовок Видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:179
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:355
+msgid "Description"
+msgstr "Описание"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:184
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:359
+msgid "Channel Title"
+msgstr "Название Канала"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:189
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:363
+msgid "Views"
+msgstr "Просмотры"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:194
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:367
+msgid "Likes"
+msgstr "Лайки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:199
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:371
+msgid "Dislikes"
+msgstr "Дизлайки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:204
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:375
+msgid "Favorites"
+msgstr "Избранные"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:214
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:383
+msgid "Duration"
+msgstr "Длительность"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:219
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:387
+msgid "Dimension"
+msgstr "Измерение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:224
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:391
+msgid "Definition"
+msgstr "Определение"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:229
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:395
+msgid "Published At"
+msgstr "Опубликовано в"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:234
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:399
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:349
+msgid "Table attributes"
+msgstr "Таблица атрибутов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/paginate_import.php:412
+msgid "Save"
+msgstr "Сохранить"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/scheduled_import.php:6
+msgid "the videos will be imported with scheduled import actualy"
+msgstr "видео будут импортированы в соответствии с вашим планированием"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/scheduled_import.php:8
+msgid "Imported videos : "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:15
+msgid "Enable Rich Snippets for Videos"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:56
+msgid ""
+"When you activate this option, the video microdata will be automatically "
+"compiled and added to the import videos."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:59
+msgid "If you want to change anything in this code, you can do so in the "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/seo_options.php:61
+msgid "Videos microdata Settings page"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/tags_options.php:16
+msgid "Import video tags"
+msgstr "Импорт видео тэгов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/tags_options.php:30
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/tags_options.php:49
+msgid "help text here"
+msgstr "текст справки здесь"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/tags_options.php:36
+msgid "Maximum number of imported tags"
+msgstr "Максимальное количество импортируемых тэгов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/title_options.php:15
+msgid "Delete title keywords"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/title_options.php:26
+msgid "Replace title keywords"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/title_options.php:43
+msgid "Insert text before title"
+msgstr "Текст перед Заголовком"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/title_options.php:50
+msgid "Insert text after title"
+msgstr "Текст после Заголовка"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/import_tabs/videos_list_head_and_footer.php:76
+msgid "Show on table"
+msgstr "Показать на столе"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:12
+msgid "Activate Envato Plugin Update"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:22
+msgid "To use this option you should install"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:24
+msgid "the Envato WordPress Toolkit plugin."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:31
+msgid "Activate error logging"
+msgstr "Включить журнал ошибок"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:44
+msgid "Activate Youtube API error logging"
+msgstr "Включить Youtube API журнал ошибок"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:58
+msgid "AJAX request type"
+msgstr "AJAX тип запроса"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:62
+msgid "yvtwp"
+msgstr "yvtwp"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:63
+msgid "wp"
+msgstr "wp"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:71
+msgid "Deregister other plugins styles"
+msgstr "Отмена стилей других плагинов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:80
+msgid ""
+"Deregister all other plugins styles when YVTWP pages are loaded to avoid "
+"conflict."
+msgstr ""
+" Отмена стилей других плагинов, когда YVTWP страницы загружаются, чтобы "
+"избежать конфликта."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:87
+msgid "Deregister other plugins scripts"
+msgstr "Отмена работы скриптов других плагинов"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:96
+msgid ""
+"Deregister all other plugins scripts when YVTWP pages are loaded to avoid "
+"conflict."
+msgstr ""
+"Отмена работы скриптов других плагинов, когда YVTWP страницы загружаются, "
+"чтобы избежать конфликта."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:103
+msgid "Active debug"
+msgstr "Активная отладка"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:116
+msgid "Force import broken videos"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:130
+msgid "Plugin Capabilitie"
+msgstr "Плагин Capabilitie"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:139
+msgid "More settings"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:143
+msgid "Only change the below settings if you know what you're doing."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:148
+msgid "Bulk import refresh interval"
+msgstr "Интервал обновления Массового Импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:152
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:163
+msgid "Second"
+msgstr "секунд"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:159
+msgid "Paginate import refresh interval"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:170
+msgid "Imports per page"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:180
+msgid "Logs per page"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:190
+msgid "Youtube Paginate import videos per request"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:200
+msgid "Youtube bulk import videos per request"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:210
+msgid "Youtube scheduled import videos per request"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:220
+msgid "Youtube normal import comments per request"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/general_settings.php:230
+msgid "Youtube schedule import comments  per request"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:11
+msgid "Activate import scheduling"
+msgstr "Активировать планирование импорта"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:24
+msgid "Cron job type for scheduling"
+msgstr "Cron job задание для планирования"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:28
+msgid "Virtual cron job (based in wordpress cron)"
+msgstr "Виртуальный cron job (на основе wordpress cron)"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:29
+msgid "Real cron job (based in server cron)"
+msgstr "Реальный cron job (на основе server cron)"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:37
+msgid "Scheduling recurrance"
+msgstr "Повторное планирование"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:55
+msgid ""
+"When activating Virtual cron job, cron events are only triggered when you "
+"have a visitor on your website. If there are no visitors, there can be no "
+"cron job checks and therefore no videos imported. This is how Wordpress cron "
+"jobs work."
+msgstr ""
+"При активации Virtual cron job, cron события срабатывают только когда у вас "
+"есть посетитель на вашем сайте. Если нет посетителей, нет и не может быть "
+"никаких проверок cron и поэтому нет импортированных видео. Это, также как "
+"работает Wordpress cron jobs."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:58
+msgid "ZERO VISITS = ZERO CRON RUNS = ZERO Import cheked = ZERO video imported"
+msgstr ""
+"НОЛЬ ПОСЕЩЕНИЙ = НОЛЬ РАБОТЫ КРОН = НОЛЬ отмеченного импорта = НОЛЬ "
+"импортированного видео"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:69
+msgid "Step 1"
+msgstr "Шаг 1"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:70
+msgid ""
+"First, you need to disable the file to be hit every time someone loads your "
+"pages. To do this, open the wp-config.php file in your main WordPress folder "
+"and add this line or update it if is set a false "
+msgstr ""
+"Во-первых, необходимо отключить файл отмечающий посещение каждый раз, когда "
+"кто-то загружает страницы. Чтобы сделать это, откройте wp-config.php файл в "
+"основной папке с WordPress и добавьте эту строку или обновите его, если "
+"задано ложное значение false"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:75
+msgid "Step 2"
+msgstr "Шаг 2"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:76
+msgid ""
+"Add your cron on the server via the command line  or  panel and add the line."
+msgstr ""
+"Добавьте свой cron на сервере через командную строку или в хостинг панели "
+"добавьте строку."
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:81
+msgid "Step 3"
+msgstr "Шаг 3"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:92
+msgid "For more infos in cron jobs view this "
+msgstr "Для подробной информации о настройке cron jobs посмотрите это"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:93
+msgid "Tutorial"
+msgstr "Инструкция"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/scheduling_settings.php:98
+msgid ""
+"If you are not familiar with cron jobs you use this external service to "
+"trigger a cron job"
+msgstr ""
+"Если Вы не знакомы с cron jobs , то вы можете использовать эту внешнюю "
+"службу для запуска по cron"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:16
+msgid "Manage Videos microdata "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:28
+msgid "Property key"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:34
+msgid "=>"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:39
+msgid "Property value"
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:67
+msgid "Only change the above settings if you know what you're doing."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:71
+msgid ""
+"This Property contains the number of times the video has been viewed in your "
+"site, you can put the name of the custum field that is used to store the "
+"post views count."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:75
+msgid "For more details about the videos microdata you can visit this "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/partials/setting_tabs/videos_microdata_settings.php:77
+msgid "You can validate your markup at this "
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:26
+msgid "Youtube API Settings"
+msgstr "Youtube API настройки"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:28
+msgid "Youtube API Key"
+msgstr "Youtube API Key"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:29
+msgid "How to get your API Key"
+msgstr "Как получить Ваш API Key"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:45
+msgid "Client ID"
+msgstr "Client ID"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:57
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: youtube-videos-to-wordpress-posts/YVTWP/views/youtube/youtube_api_settings.php:70
+msgid "Developer key"
+msgstr "Ключ разработчика"
+
+#: youtube-videos-to-wordpress-posts/lib/envato-plugin-update.php:175
+msgid "Failed to retreive plugin details from the Envato API."
+msgstr ""
+
+#: youtube-videos-to-wordpress-posts/lib/envato-plugin-update.php:185
+#, php-format
+msgid "New version of <strong>%s</strong> is available."
+msgstr ""
+
+#~ msgid "Skipped videos"
+#~ msgstr "Пропущенные Видео"
+
+#~ msgid "Processed videos"
+#~ msgstr "Обработанные Видео"
+
+#~ msgid ""
+#~ "Youtube API v3 limits the number of paginated results to 500, you can "
+#~ "check this <a target='_blank' href='https://code.google.com/p/gdata-"
+#~ "issues/issues/detail?id=4282'>link</a> for info on the issue."
+#~ msgstr ""
+#~ "Youtube API v3 ограничивает число с разбивкой на страницы результатов до "
+#~ "500, вы можете проверить это перейдя по <a target='_blank' href='https://"
+#~ "code.google.com/p/gdata-issues/issues/detail?id=4282'>ссылке</a> для "
+#~ "получения информации по данному вопросу."
+
+#~ msgid "Cant get import infos"
+#~ msgstr "Невозможно получить информацию об импорте"
+
+#~ msgid ""
+#~ "Youtube Videos to Wordpress Posts : Probably you may have a conflict with "
+#~ "other users. Your import settings \n"
+#~ "                                can be deleted or changed,  because this "
+#~ "demo is shared with other users at the same time."
+#~ msgstr ""
+#~ "Видео с Youtube в WordPress записи : Возможно у вас может возникнуть "
+#~ "конфликт с другими пользователями. Ваши настройки импорта \n"
+#~ "                                  могут быть удалены или изменены, потому "
+#~ "что это демо используется совместно с другими пользователями одновременно."
+
+#~ msgid "Error while saving the post"
+#~ msgstr "Ошибка при сохранении записи"
+
+#~ msgid "Error while updating the post"
+#~ msgstr "Ошибка при обновлении записи"
+
+#~ msgid "Cannot read from Youtube API, `file_get_contents` error"
+#~ msgstr ""
+#~ "Не возможно прочитать из Youtube API, ошибка в файле `file_get_contents`"
+
+#~ msgid "Title Options"
+#~ msgstr "Настройки Заголовка"
+
+#~ msgid "Description Options"
+#~ msgstr "Настройки Описания"
+
+#~ msgid "Select File .txt"
+#~ msgstr "Выберите файл .txt"
+
+#~ msgid "Delete keywords"
+#~ msgstr "Удалить Ключевые слова"
+
+#~ msgid "Replace keywords"
+#~ msgstr "Изменить Ключевые слова"
+
+#~ msgid "Delete URLs"
+#~ msgstr "Удалить ссылки"
+
+#~ msgid "Import as post excerpt"
+#~ msgstr "Импортировать как выдержку из записи"
+
+#~ msgid ""
+#~ "When activating this option, Youtube videos are automatically added to "
+#~ "your website. Also, new posted videos are automatically synced to your "
+#~ "website."
+#~ msgstr ""
+#~ "При активации этой опции, Youtube видео будут автоматически добавлены на "
+#~ "ваш сайт. Кроме того, новые Отправленные видео автоматически "
+#~ "синхронизируются на вашем сайте."
+
+#~ msgid ""
+#~ "Note 1 : Make sure that you configured and activated the scheduling "
+#~ "import in"
+#~ msgstr ""
+#~ "Примечание 1: Убедитесь, что вы настроили и активировали планировщик "
+#~ "импорта в"
+
+#~ msgid ""
+#~ "Note 2 : Make sure that the setting \"Update if exist\" is set to \"No\" "
+#~ "in the tab"
+#~ msgstr ""
+#~ "Примечание 2: Убедитесь, что параметр \"Обновить, если существует\" "
+#~ "установлен в \"Нет\" на вкладке"
+
+#~ msgid "Processed videos : "
+#~ msgstr "Обработанные видео:"
+
+#~ msgid "Import video thumbnail"
+#~ msgstr "Импорт видео с миниатюрами"
+
+#~ msgid "Invalid Google developper key"
+#~ msgstr "Недействительный  Google developper key"
+
+#~ msgid "Access by role"
+#~ msgstr "Доступ по роли"
+
+#~ msgid "Feed Key"
+#~ msgstr "Ключ Фида"
+
+#~ msgid "Schedule Options"
+#~ msgstr "Настройки Планировщика"
+
+#~ msgid "Template"
+#~ msgstr "Шаблон"
+
+#~ msgid "Custom field key"
+#~ msgstr "Ключ Пользовательского поля"
+
+#~ msgid "Template fields"
+#~ msgstr "Шаблоны полей"
+
+#~ msgid "New field"
+#~ msgstr "Новое Поле"
+
+#~ msgid "Use this section to map video details to any custom field."
+#~ msgstr ""
+#~ "Используйте этот раздел, чтобы отобразить сведения о видеозаписи в любое "
+#~ "настраиваемое поле."
+
+#~ msgid "You can't update this field later."
+#~ msgstr "Вы не сможете обновить это поле позже."
+
+#~ msgid "Import video thumbnail as post thumbnail"
+#~ msgstr "Импортировать видео миниатюры как миниатюры записей"
+
+#~ msgid "Activate post scheduling"
+#~ msgstr "Активировать планировщик записи"
+
+#~ msgid "You can only update random scheduling values later."
+#~ msgstr "Вы сможете обновить случайные запланированные данные позже"
+
+#~ msgid "Access denied"
+#~ msgstr "Доступ закрыт"
+
+#~ msgid "Youtube Videos to Wordpress Posts require PHP >= 5.4.0"
+#~ msgstr "Дляя Youtube Видео в Wordpress Записях требуется PHP >= 5.4.0"
+
+#~ msgid "General settings"
+#~ msgstr "Основные настройки"

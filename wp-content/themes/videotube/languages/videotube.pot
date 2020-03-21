@@ -1,0 +1,2707 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: videotube\n"
+"POT-Creation-Date: 2017-07-03 09:52+0700\n"
+"PO-Revision-Date: 2016-01-26 14:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: marstheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr ""
+
+#: ../404.php:14
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: ../archive-video.php:26 ../archive.php:20 ../author.php:30
+#: ../category.php:20 ../includes/Mars_ShortcodeListVideos.php:321
+#: ../taxonomy-categories.php:25 ../taxonomy-video_tag.php:25
+#: ../tpl-blog.php:25
+msgid "Oops...nothing."
+msgstr ""
+
+#: ../archive.php:17 ../category.php:17 ../index.php:14
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../archive.php:17 ../category.php:17 ../includes/functions.php:872
+#: ../index.php:14
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../author.php:25 ../tag.php:17 ../tpl-blog.php:21
+msgid "&larr; Older"
+msgstr ""
+
+#: ../author.php:25 ../tag.php:17 ../tpl-blog.php:21
+msgid "Newer &rarr;"
+msgstr ""
+
+#: ../comments.php:11
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:11
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:51
+msgid "Add your comment"
+msgstr ""
+
+#: ../comments.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:54 ../includes/Mars_ShortcodeSubmitVideo.php:250
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:63
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:69
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:76
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../comments.php:84 ../includes/Mars_Subscribox_Widget.php:85
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:85
+msgid "Enter name"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Enter Email"
+msgstr ""
+
+#: ../comments.php:96
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:97
+msgid "Enter Website"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Please upload an image instead."
+msgstr ""
+
+#: ../functions.php:141
+msgid "Please upload a video instead."
+msgstr ""
+
+#: ../functions.php:142
+msgid "Do you want to delete this video?"
+msgstr ""
+
+#: ../functions.php:186
+msgid "Home Page Navigation"
+msgstr ""
+
+#: ../functions.php:197
+msgid "Right Homepage"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Display the Widgets on Home Page Right Sidebar"
+msgstr ""
+
+#: ../functions.php:208
+msgid "Inner Page Right"
+msgstr ""
+
+#: ../functions.php:210
+msgid "Static Page, Category,Tag,Archive,Search,Author Right Sidebar"
+msgstr ""
+
+#: ../functions.php:218 ../includes/Mars_FeaturedVideos_Widgets.php:227
+msgid "Featured Videos"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Display the featured videos on Home Page"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Main Homepage"
+msgstr ""
+
+#: ../functions.php:229
+msgid "Display the video on Main Video Content Page"
+msgstr ""
+
+#: ../functions.php:236
+msgid "Author/Channel Page Right"
+msgstr ""
+
+#: ../functions.php:238
+msgid "The Author/Channel right sidebar"
+msgstr ""
+
+#: ../functions.php:246
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:248
+msgid "Display the Widgets on Footer"
+msgstr ""
+
+#: ../functions.php:256
+msgid "Video Content Botttom"
+msgstr ""
+
+#: ../functions.php:258
+msgid ""
+"Display the Widgets on Video Single page, below the video description, you "
+"can use to display the Videos Related widget or an ads."
+msgstr ""
+
+#: ../functions.php:266
+msgid "Post Content Bottom"
+msgstr ""
+
+#: ../functions.php:268
+msgid ""
+"Display the Widgets on blog/post single page, bellow the post content, you "
+"can use to display the Videos Related widget or an ads."
+msgstr ""
+
+#: ../header.php:33 ../searchform.php:5
+msgid "Search here..."
+msgstr ""
+
+#: ../header.php:75
+msgid "Home"
+msgstr ""
+
+#: ../includes/Mars_Author_Page.php:30
+msgid "Videos:"
+msgstr ""
+
+#: ../includes/Mars_Author_Page.php:31
+msgid "Likes:"
+msgstr ""
+
+#: ../includes/Mars_Author_Page.php:32
+msgid "Views:"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:19
+#: ../includes/Mars_Custom_Post_Type.php:34
+#: ../includes/Mars_Custom_Post_Type.php:35
+msgid "Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:36
+msgid "Add Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:37
+msgid "Add New Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:38 ../includes/functions.php:180
+#: ../single-video.php:222
+msgid "Edit"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:39
+msgid "Edit Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:40
+msgid "New Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:41
+#: ../includes/Mars_Custom_Post_Type.php:42
+msgid "View Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:43
+msgid "Search Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:44
+msgid "No Videos Found"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:45
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: ../includes/Mars_Custom_Post_Type.php:46
+msgid "Parent Videos"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:14
+#: ../includes/Mars_Custom_Taxonomies.php:15
+#: ../includes/Mars_Custom_Taxonomies.php:24
+#: ../includes/Mars_Custom_Taxonomies.php:28
+#: ../includes/Mars_RelatedVideo_Widgets.php:329
+#: ../includes/composer/shortcodes/videotube.php:157
+#: ../includes/composer/widgets/post1col.php:112
+msgid "Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:16
+msgid "Search Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:17
+msgid "All Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:18
+msgid "Parent Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:19
+msgid "Parent Video Category:"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:20
+msgid "Edit Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:21
+msgid "Update Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:22
+msgid "Add New Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:23
+msgid "New Video Category"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:51
+#: ../includes/Mars_Custom_Taxonomies.php:52
+#: ../includes/Mars_Custom_Taxonomies.php:61
+#: ../includes/Mars_Custom_Taxonomies.php:64
+#: ../includes/Mars_RelatedVideo_Widgets.php:330
+msgid "Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:53
+msgid "Search Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:54
+msgid "All Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:55
+msgid "Parent Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:56
+msgid "Parent Video Tag:"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:57
+msgid "Edit Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:58
+msgid "Update Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:59
+msgid "Add New Video Tag"
+msgstr ""
+
+#: ../includes/Mars_Custom_Taxonomies.php:60
+msgid "New Video Tag"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:19
+msgid "VT Featured Posts Widget."
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:21
+msgid "VT Featured Posts Widget"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:219
+msgid "Featured Posts"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:228
+#: ../includes/Mars_FeaturedVideos_Widgets.php:236
+#: ../includes/Mars_KeyCloud_Widgets.php:73
+#: ../includes/Mars_LoginForm_Widget.php:99
+#: ../includes/Mars_MainPosts_Widgets.php:310
+#: ../includes/Mars_MainVideos_Widgets.php:325
+#: ../includes/Mars_OneBigVideo_Widgets.php:96
+#: ../includes/Mars_Posts_Widget_Siderbar.php:177
+#: ../includes/Mars_RelatedBlog_Widgets.php:181
+#: ../includes/Mars_RelatedVideo_Widgets.php:246
+#: ../includes/Mars_StayConnected_Widget.php:50
+#: ../includes/Mars_Subscribox_Widget.php:136
+#: ../includes/Mars_Videos_Widget_Siderbar.php:184
+msgid "Title:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:232
+msgid "Post Category:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:254
+#: ../includes/Mars_MainPosts_Widgets.php:336
+#: ../includes/Mars_Posts_Widget_Siderbar.php:203
+msgid "Post Tag:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:255
+#: ../includes/Mars_FeaturedVideos_Widgets.php:263
+#: ../includes/Mars_MainPosts_Widgets.php:337
+#: ../includes/Mars_MainVideos_Widgets.php:352
+#: ../includes/Mars_Posts_Widget_Siderbar.php:204
+#: ../includes/Mars_Videos_Widget_Siderbar.php:211
+msgid "Eg: tag1,tag2,tag3"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:258
+msgid "Date (Show posts associated with a certain time, (yy-mm-dd)):"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:262
+#: ../includes/Mars_FeaturedVideos_Widgets.php:270
+#: ../includes/Mars_MainPosts_Widgets.php:344
+#: ../includes/Mars_MainVideos_Widgets.php:359
+#: ../includes/Mars_Posts_Widget_Siderbar.php:211
+#: ../includes/Mars_Videos_Widget_Siderbar.php:218
+msgid "Display the post today"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:264
+#: ../includes/Mars_FeaturedVideos_Widgets.php:272
+#: ../includes/Mars_MainPosts_Widgets.php:346
+#: ../includes/Mars_MainVideos_Widgets.php:361
+#: ../includes/Mars_Posts_Widget_Siderbar.php:213
+#: ../includes/Mars_Videos_Widget_Siderbar.php:220
+msgid "Or this week"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:267
+#: ../includes/Mars_FeaturedVideos_Widgets.php:275
+#: ../includes/Mars_MainPosts_Widgets.php:349
+#: ../includes/Mars_MainVideos_Widgets.php:364
+#: ../includes/Mars_Posts_Widget_Siderbar.php:216
+#: ../includes/Mars_Videos_Widget_Siderbar.php:223
+msgid "Do not choose two options."
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:270
+#: ../includes/Mars_FeaturedVideos_Widgets.php:278
+#: ../includes/Mars_MainPosts_Widgets.php:352
+#: ../includes/Mars_MainVideos_Widgets.php:367
+#: ../includes/Mars_Posts_Widget_Siderbar.php:219
+#: ../includes/Mars_RelatedBlog_Widgets.php:185
+#: ../includes/Mars_RelatedVideo_Widgets.php:250
+#: ../includes/Mars_Videos_Widget_Siderbar.php:226
+msgid "Orderby:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:283
+#: ../includes/Mars_FeaturedVideos_Widgets.php:291
+#: ../includes/Mars_MainPosts_Widgets.php:365
+#: ../includes/Mars_MainVideos_Widgets.php:380
+#: ../includes/Mars_Posts_Widget_Siderbar.php:232
+#: ../includes/Mars_RelatedBlog_Widgets.php:198
+#: ../includes/Mars_RelatedVideo_Widgets.php:263
+#: ../includes/Mars_Videos_Widget_Siderbar.php:239
+msgid "Order:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:296
+msgid "Post IDs:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:300
+#: ../includes/Mars_FeaturedVideos_Widgets.php:308
+#: ../includes/Mars_MainPosts_Widgets.php:413
+#: ../includes/Mars_MainVideos_Widgets.php:428
+#: ../includes/Mars_Posts_Widget_Siderbar.php:280
+#: ../includes/Mars_RelatedBlog_Widgets.php:224
+#: ../includes/Mars_RelatedVideo_Widgets.php:289
+#: ../includes/Mars_Videos_Widget_Siderbar.php:287
+msgid "Shows:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:304
+msgid "Show Sticky Posts:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:308
+#: ../includes/Mars_FeaturedVideos_Widgets.php:312
+#: ../includes/Mars_RelatedBlog_Widgets.php:228
+#: ../includes/Mars_RelatedVideo_Widgets.php:293
+msgid "Columns:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:310
+msgid "You can set the columns for displaying the Posts, example: 3,4 or 6."
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:313
+#: ../includes/Mars_FeaturedVideos_Widgets.php:317
+#: ../includes/Mars_RelatedBlog_Widgets.php:249
+#: ../includes/Mars_RelatedVideo_Widgets.php:311
+msgid "Rows:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:317
+#: ../includes/Mars_FeaturedVideos_Widgets.php:321
+#: ../includes/Mars_MainPosts_Widgets.php:421
+#: ../includes/Mars_MainVideos_Widgets.php:436
+#: ../includes/Mars_RelatedBlog_Widgets.php:253
+msgid "Auto Carousel:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:321
+#: ../includes/Mars_FeaturedVideos_Widgets.php:325
+#: ../includes/Mars_MainPosts_Widgets.php:425
+#: ../includes/Mars_MainVideos_Widgets.php:440
+#: ../includes/Mars_Posts_Widget_Siderbar.php:284
+#: ../includes/Mars_Videos_Widget_Siderbar.php:291
+msgid "View more link"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:328
+#: ../includes/Mars_FeaturedVideos_Widgets.php:332
+#: ../includes/Mars_MainPosts_Widgets.php:442
+#: ../includes/Mars_MainVideos_Widgets.php:457
+#: ../includes/Mars_Posts_Widget_Siderbar.php:298
+#: ../includes/Mars_RelatedBlog_Widgets.php:260
+#: ../includes/Mars_RelatedVideo_Widgets.php:322
+#: ../includes/Mars_Videos_Widget_Siderbar.php:305
+#: ../includes/composer/attribute/order.php:7
+#: ../includes/composer/shortcodes/videotube_upload.php:83
+msgid "ASC"
+msgstr ""
+
+#: ../includes/Mars_FeaturedPosts_Widgets.php:329
+#: ../includes/Mars_FeaturedVideos_Widgets.php:333
+#: ../includes/Mars_MainPosts_Widgets.php:441
+#: ../includes/Mars_MainVideos_Widgets.php:456
+#: ../includes/Mars_Posts_Widget_Siderbar.php:297
+#: ../includes/Mars_RelatedBlog_Widgets.php:261
+#: ../includes/Mars_RelatedVideo_Widgets.php:323
+#: ../includes/Mars_Videos_Widget_Siderbar.php:304
+#: ../includes/composer/attribute/order.php:6
+#: ../includes/composer/shortcodes/videotube_upload.php:84
+msgid "DESC"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:19
+#: ../includes/Mars_FeaturedVideos_Widgets.php:21
+msgid "VT Featured Videos Widget"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:240
+#: ../includes/Mars_MainVideos_Widgets.php:329
+#: ../includes/Mars_Posts_Widget_Siderbar.php:181
+#: ../includes/Mars_Videos_Widget_Siderbar.php:188
+msgid "Video Category:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:262
+#: ../includes/Mars_MainVideos_Widgets.php:351
+#: ../includes/Mars_Videos_Widget_Siderbar.php:210
+msgid "Video Tag:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:266
+#: ../includes/Mars_MainPosts_Widgets.php:340
+#: ../includes/Mars_MainVideos_Widgets.php:355
+#: ../includes/Mars_Posts_Widget_Siderbar.php:207
+#: ../includes/Mars_Videos_Widget_Siderbar.php:214
+msgid "Date (Show posts associated with a certain time, (yyyy-mm-dd)):"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:304
+msgid "Video IDs:"
+msgstr ""
+
+#: ../includes/Mars_FeaturedVideos_Widgets.php:314
+#: ../includes/Mars_RelatedBlog_Widgets.php:230
+#: ../includes/Mars_RelatedVideo_Widgets.php:295
+msgid "You can set the columns for displaying the Videos, example: 3,4 or 6."
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:19
+msgid "Displays the Video tag and post tag."
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:21
+msgid "VT Tags Cloud"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:65
+msgid "Tags Cloud"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:77
+msgid "Taxonomies:"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:81
+msgid "Smallest Size:"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:85
+msgid "Largest Size:"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:89
+msgid "Number:"
+msgstr ""
+
+#: ../includes/Mars_KeyCloud_Widgets.php:91
+msgid "How many tag will be shown?"
+msgstr ""
+
+#: ../includes/Mars_LoadingMore_Ajax.php:33
+#, php-format
+msgid "I want more %s"
+msgstr ""
+
+#: ../includes/Mars_LoadingMore_Ajax.php:75
+#: ../includes/Mars_MainVideos_Widgets.php:215
+#: ../includes/Mars_MainVideos_Widgets.php:217
+#: ../includes/Mars_OneBigVideo_Widgets.php:71 ../tpl-rolling.php:53
+msgid "Watch Video"
+msgstr ""
+
+#: ../includes/Mars_LoadingMore_Ajax.php:80
+#: ../includes/Mars_MainPosts_Widgets.php:201 ../loop-post.php:23
+#: ../tpl-rolling.php:57
+msgid "Read More"
+msgstr ""
+
+#: ../includes/Mars_LoadingMore_Ajax.php:90
+msgid "nothing"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:19
+#: ../includes/Mars_LoginForm_Widget.php:21
+msgid "VT Login/Profile Widget"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:40
+#: ../includes/Mars_LoginRegister_Template.php:78
+#: ../includes/Mars_LoginRegister_Template.php:102
+msgid "Username"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:41
+#: ../includes/Mars_LoginRegister_Template.php:79
+msgid "Password"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:42
+#: ../includes/Mars_LoginRegister_Template.php:80
+msgid "Remember Me"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:43
+#: ../includes/Mars_LoginRegister_Template.php:61
+#: ../includes/Mars_LoginRegister_Template.php:81
+msgid "Log In"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:71
+msgid "Upload"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:73
+msgid "Channel"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:75
+#: ../includes/composer/widgets/login-form.php:25
+msgid "Profile"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:77
+msgid "Sign out"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:94
+msgid "Login Form"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:103
+msgid "Uploader URL:"
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:107
+#: ../includes/Mars_LoginForm_Widget.php:121
+msgid "Choose One ..."
+msgstr ""
+
+#: ../includes/Mars_LoginForm_Widget.php:117
+msgid "Profile URL:"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:49
+msgid "Lost Password?"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:72
+#, php-format
+msgid "You are already logged in, %s"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:72
+msgid "Logout?"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:93
+msgid "Login"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:99
+msgid "Register your Account"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:106
+msgid "Email"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:123
+msgid "I have read the terms & conditions."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:128
+#: ../includes/Mars_LoginRegister_Template.php:129
+msgid "Register"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:147
+msgid "Please enter Username."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:156
+msgid "Sorry, our member system is currely disabled."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:164
+msgid "Sorry, You have to agree our terms & conditions."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:176
+#: ../includes/Mars_LoginRegister_Template.php:217 ../includes/ajax.php:361
+#: ../includes/ajax.php:559
+msgid "Invalid request"
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:202
+msgid "Registration completed. Please check your e-mail."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:237
+msgid "Please enter username and password."
+msgstr ""
+
+#: ../includes/Mars_LoginRegister_Template.php:260
+msgid "Logged"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:20
+#: ../includes/Mars_MainPosts_Widgets.php:22
+msgid "VT Main Posts Widget"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:149
+#: ../includes/Mars_MainVideos_Widgets.php:161
+#: ../includes/Mars_OneBigVideo_Widgets.php:39
+msgid "View More"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:300
+msgid "Latest Posts"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:314
+msgid "Category:"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:378
+#: ../includes/Mars_Posts_Widget_Siderbar.php:245
+#: ../includes/Mars_Videos_Widget_Siderbar.php:252
+msgid "Widget Column:"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:391
+#: ../includes/Mars_MainVideos_Widgets.php:406
+#: ../includes/Mars_Posts_Widget_Siderbar.php:258
+#: ../includes/Mars_RelatedBlog_Widgets.php:234
+#: ../includes/Mars_RelatedVideo_Widgets.php:298
+#: ../includes/Mars_Videos_Widget_Siderbar.php:265
+msgid "Mobile Columns:"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:404
+#: ../includes/Mars_MainVideos_Widgets.php:419
+#: ../includes/Mars_Posts_Widget_Siderbar.php:271
+#: ../includes/Mars_RelatedBlog_Widgets.php:239
+#: ../includes/Mars_RelatedVideo_Widgets.php:302
+#: ../includes/Mars_Videos_Widget_Siderbar.php:278
+msgid "Thumbnail Size:"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:408
+#: ../includes/Mars_MainVideos_Widgets.php:423
+#: ../includes/Mars_Posts_Widget_Siderbar.php:275
+#: ../includes/Mars_RelatedBlog_Widgets.php:243
+#: ../includes/Mars_RelatedVideo_Widgets.php:306
+#: ../includes/Mars_Videos_Widget_Siderbar.php:282
+msgid "Enter the custom image size of leave blank for default."
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:417
+#: ../includes/Mars_MainVideos_Widgets.php:432
+msgid "Rows (Available with 3 or 1 Column):"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:432
+#: ../includes/Mars_MainVideos_Widgets.php:447
+msgid "6 Columns"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:433
+#: ../includes/Mars_MainVideos_Widgets.php:448
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:434
+#: ../includes/Mars_MainVideos_Widgets.php:449
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:435
+#: ../includes/Mars_MainVideos_Widgets.php:450
+#: ../includes/Mars_Posts_Widget_Siderbar.php:291
+#: ../includes/Mars_Videos_Widget_Siderbar.php:298
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/Mars_MainPosts_Widgets.php:436
+#: ../includes/Mars_MainVideos_Widgets.php:451
+#: ../includes/Mars_Posts_Widget_Siderbar.php:292
+#: ../includes/Mars_Videos_Widget_Siderbar.php:299
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/Mars_MainVideos_Widgets.php:19
+#: ../includes/Mars_MainVideos_Widgets.php:21
+msgid "VT Main Videos Widget"
+msgstr ""
+
+#: ../includes/Mars_MainVideos_Widgets.php:316
+msgid "Latest Videos"
+msgstr ""
+
+#: ../includes/Mars_MainVideos_Widgets.php:393
+msgid "Widget Columns:"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:53
+#: ../includes/Mars_ShortcodeSubmitVideo.php:226
+#: ../includes/Mars_Video_Table.php:22
+msgid "Layout"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:57 ../includes/functions.php:768
+msgid "Small"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:58 ../includes/functions.php:769
+msgid "Large"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:66
+msgid "Choose the Video type"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:79
+msgid "Enter the link or embed code here"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:82
+msgid "Here you can put multiple video object, one object/line."
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:103
+msgid "Upload your files here"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:145 ../includes/Mars_MetaBox.php:149
+#: ../includes/composer/shortcodes/videotube.php:41
+#: ../includes/composer/widgets/post1col.php:44
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/Mars_MetaBox.php:152
+msgid "This option is used in infinity rolling page. "
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:19
+#: ../includes/Mars_OneBigVideo_Widgets.php:21
+msgid "VT Big Video/Post"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:90
+msgid "Latest Video/Post"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:100
+msgid "Enter a Post ID:"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:101
+msgid "example: 12"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:104
+msgid "Thumbnail Image Size:"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:108
+msgid "View more link:"
+msgstr ""
+
+#: ../includes/Mars_OneBigVideo_Widgets.php:110
+#: ../includes/composer/widgets/big-post.php:56
+msgid ""
+"You can link this to the archive page or something else, or put \"#\" for "
+"default."
+msgstr ""
+
+#: ../includes/Mars_Posts_Widget_Siderbar.php:19
+#: ../includes/Mars_Posts_Widget_Siderbar.php:21
+msgid "VT Right Post Widgets"
+msgstr ""
+
+#: ../includes/Mars_Posts_Widget_Siderbar.php:167
+msgid "Right Sidebar Posts"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:19
+#: ../includes/Mars_RelatedBlog_Widgets.php:21
+msgid "VT Related Blog Widget"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:174
+msgid "Related posts"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:211
+#: ../includes/Mars_RelatedVideo_Widgets.php:276
+msgid "Filter Condition:"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:266
+msgid "Category and Post Tag"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:267
+#: ../includes/Mars_ShortcodeSubmitVideo.php:218 ../single-video.php:228
+#: ../single.php:44
+msgid "Category"
+msgstr ""
+
+#: ../includes/Mars_RelatedBlog_Widgets.php:268
+msgid "Post Tag"
+msgstr ""
+
+#: ../includes/Mars_RelatedVideo_Widgets.php:19
+#: ../includes/Mars_RelatedVideo_Widgets.php:21
+msgid "VT Related Videos Widget"
+msgstr ""
+
+#: ../includes/Mars_RelatedVideo_Widgets.php:239
+msgid "Related Videos"
+msgstr ""
+
+#: ../includes/Mars_RelatedVideo_Widgets.php:315
+#: ../includes/composer/shortcodes/videotube.php:89
+msgid "Auto Carousel"
+msgstr ""
+
+#: ../includes/Mars_RelatedVideo_Widgets.php:328
+msgid "Video Category and Video Tag"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:56
+msgid "You don't have the right permission to access this feature."
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:117
+msgid "Updated!"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:120
+#: ../includes/composer/shortcodes/videotube.php:27
+#: ../includes/composer/shortcodes/videotube_upload.php:20
+#: ../includes/composer/widgets/big-post.php:31
+#: ../includes/composer/widgets/featured-video.php:23
+#: ../includes/composer/widgets/login-form.php:23
+#: ../includes/composer/widgets/post1col.php:30
+#: ../includes/composer/widgets/social-count-plus.php:23
+#: ../includes/composer/widgets/socialsbox.php:23
+#: ../includes/composer/widgets/vt-tag-cloud.php:23
+msgid "Title"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:121
+#: ../includes/Mars_ShortcodeSubmitVideo.php:140
+#: ../includes/Mars_ShortcodeSubmitVideo.php:168
+#: ../includes/Mars_ShortcodeSubmitVideo.php:178
+#: ../includes/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:126
+msgid "Description"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:139
+#: ../includes/class-tgm-plugin-activation.php:2438
+#: ../includes/composer/shortcodes/videotube.php:63
+msgid "Type"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:144
+#: ../includes/theme-options.php:399
+msgid "Link"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:151
+#: ../includes/Mars_ShortcodeSubmitVideo.php:177
+#: ../includes/theme-options.php:399
+msgid "Embed Code"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:158
+msgid "Upload file"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:167
+msgid "Video Link"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:187
+msgid "Upload video file"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:196
+msgid "Upload Image"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:209
+msgid "Tags"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:212
+msgid "Enter tags, separated by commas(,), e.g: travel,vblog,tutorial"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:245
+#: ../includes/class-tgm-plugin-activation.php:2609
+#: ../includes/theme-options.php:565
+msgid "Update"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:246
+msgid "Delete video"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:247
+msgid "Go to video"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:285
+msgid "Video Title is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:292
+msgid "Video Description is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:300
+msgid "Video Type is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:310
+msgid "Video Link is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:317
+msgid "The link does not support."
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:327
+msgid "Embed Code is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:335
+#: ../includes/Mars_ShortcodeSubmitVideo.php:374
+msgid "Video Preview Image is required"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:342
+#: ../includes/Mars_ShortcodeSubmitVideo.php:381
+msgid "Video Preview Image type is invalid"
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:352
+msgid "Video File is required."
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:359
+msgid "Video File is invalid."
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:366
+msgid "The video size must be less than "
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:461
+#: ../includes/Mars_ShortcodeSubmitVideo.php:468
+msgid "Congratulation, Your submit is waiting for approval."
+msgstr ""
+
+#: ../includes/Mars_ShortcodeSubmitVideo.php:477
+msgid "Congratulation, Your submit is published."
+msgstr ""
+
+#: ../includes/Mars_StayConnected_Widget.php:19
+#: ../includes/Mars_StayConnected_Widget.php:21
+msgid "VT Stay Connected Box"
+msgstr ""
+
+#: ../includes/Mars_StayConnected_Widget.php:47
+msgid "Stay Connected"
+msgstr ""
+
+#: ../includes/Mars_Subscribe_Ajax.php:19
+msgid "Please enter your name."
+msgstr ""
+
+#: ../includes/Mars_Subscribe_Ajax.php:27
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../includes/Mars_Subscribe_Ajax.php:35
+msgid "Sorry, you have to agree our User Agreement & Privacy Policy."
+msgstr ""
+
+#: ../includes/Mars_Subscribe_Ajax.php:58
+msgid "Congratulation."
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:19
+#: ../includes/Mars_Subscribox_Widget.php:21
+msgid "VT Social Subscribe Box"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:36
+#: ../includes/Mars_Subscribox_Widget.php:38
+msgid "Fans"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:37
+#: ../includes/Mars_Subscribox_Widget.php:39
+#: ../includes/Mars_Subscribox_Widget.php:41
+#: ../includes/Mars_Subscribox_Widget.php:42
+#: ../includes/Mars_Subscribox_Widget.php:43
+#: ../includes/Mars_Subscribox_Widget.php:44
+msgid "Followers"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:40
+#: ../includes/Mars_Subscribox_Widget.php:45
+#: ../includes/Mars_Subscribox_Widget.php:70
+msgid "Subscribers"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:80
+#: ../includes/Mars_Subscribox_Widget.php:103
+#: ../includes/Mars_Subscribox_Widget.php:104
+msgid "Subscribe"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:89
+msgid "Your Email Address"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:105
+msgid "Close"
+msgstr ""
+
+#: ../includes/Mars_Subscribox_Widget.php:131
+msgid "Social Subscribox"
+msgstr ""
+
+#: ../includes/Mars_Video_Table.php:19
+msgid "Author"
+msgstr ""
+
+#: ../includes/Mars_Video_Table.php:20
+msgid "Likes"
+msgstr ""
+
+#: ../includes/Mars_Video_Table.php:21
+msgid "Views"
+msgstr ""
+
+#: ../includes/Mars_Videos_Widget_Siderbar.php:19
+#: ../includes/Mars_Videos_Widget_Siderbar.php:20
+msgid "VT Right Video Widgets"
+msgstr ""
+
+#: ../includes/Mars_Videos_Widget_Siderbar.php:174
+msgid "Right Sidebar Videos"
+msgstr ""
+
+#: ../includes/ajax.php:18
+msgid "Sorry, you have to log in to like this video."
+msgstr ""
+
+#: ../includes/ajax.php:28
+msgid "Sorry, You cannot like this video."
+msgstr ""
+
+#: ../includes/ajax.php:44
+msgid "Awesome, thanks for your rating."
+msgstr ""
+
+#: ../includes/ajax.php:51
+msgid "You have already liked this video."
+msgstr ""
+
+#: ../includes/ajax.php:84 ../includes/ajax.php:218
+msgid "Please login to upload video."
+msgstr ""
+
+#: ../includes/ajax.php:92 ../includes/ajax.php:226
+msgid "Invalid request."
+msgstr ""
+
+#: ../includes/ajax.php:103
+msgid "The upload file format is not supported, please upload a video instead."
+msgstr ""
+
+#: ../includes/ajax.php:114 ../includes/ajax.php:247
+#, php-format
+msgid "File size (%sMB) has exceeded the limit (%sMB)."
+msgstr ""
+
+#: ../includes/ajax.php:185 ../includes/ajax.php:320
+msgid "Cannot upload file."
+msgstr ""
+
+#: ../includes/ajax.php:236
+msgid ""
+"The upload file format is not supported, please upload an image instead."
+msgstr ""
+
+#: ../includes/ajax.php:313
+msgid "Uploaded"
+msgstr ""
+
+#: ../includes/ajax.php:351
+msgid "Please login to submit video."
+msgstr ""
+
+#: ../includes/ajax.php:387
+msgid "Sorry, you do not have permission for updating this video."
+msgstr ""
+
+#: ../includes/ajax.php:399
+msgid "The video title is required."
+msgstr ""
+
+#: ../includes/ajax.php:428
+msgid "Please enter a video url"
+msgstr ""
+
+#: ../includes/ajax.php:437
+msgid "Please enter an embed"
+msgstr ""
+
+#: ../includes/ajax.php:447
+msgid "Please upload a video file."
+msgstr ""
+
+#: ../includes/ajax.php:536
+msgid "Submitted"
+msgstr ""
+
+#: ../includes/ajax.php:567
+msgid "Sorry, you do not have permission for deleting this video."
+msgstr ""
+
+#: ../includes/ajax.php:590
+msgid "Deleted"
+msgstr ""
+
+#: ../includes/class-composer.php:23
+msgid "You have no page, please create a new one."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#: ../includes/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:828
+#: ../includes/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:935
+#: ../includes/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3370
+#: ../includes/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3370
+#: ../includes/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/composer/param/fullwidth.php:11
+msgid "Fullwidth (no wrapper)"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:15
+msgid "Page Builder"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:17
+#: ../includes/composer/shortcodes/videotube_upload.php:10
+#: ../includes/composer/widgets/big-post.php:21
+#: ../includes/composer/widgets/featured-video.php:13
+msgid "VideoTube"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:21
+msgid "Video/Post Page/Widget Builder."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:34
+#: ../includes/composer/widgets/post1col.php:37
+msgid "Icon"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:44
+#: ../includes/composer/widgets/post1col.php:47
+msgid "Video"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:45
+#: ../includes/composer/widgets/post1col.php:48
+msgid "Post"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:55
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:57
+msgid "Displays the post excerpt"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:66
+msgid "Main Content"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:67
+msgid "Widget"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:76
+#: ../includes/composer/widgets/post1col.php:58
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:100
+#: ../includes/composer/widgets/post1col.php:82
+msgid "Show Posts"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:103
+#: ../includes/composer/widgets/post1col.php:85
+msgid "How many video will be shown?"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:109
+msgid "Section ID"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:111
+msgid "Enter an unique name if you check on Carousel checkbox."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:118
+#: ../includes/composer/widgets/post1col.php:91
+msgid "Rows"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:120
+#: ../includes/composer/widgets/post1col.php:93
+msgid "How many Rows will be shown?"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:131
+msgid "Columns"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:133
+msgid "How many Columns will be shown on desktop?"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:140
+msgid "Mobile Columns"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:142
+msgid "How many Columns will be shown on mobile devices?"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:149
+#: ../includes/composer/widgets/big-post.php:46
+#: ../includes/composer/widgets/post1col.php:104
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:151
+#, php-format
+msgid ""
+"Enter image size. Example: <strong>%s , thumbnail, medium, large, full</"
+"strong>, or leave blank for default."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:159
+#: ../includes/composer/widgets/post1col.php:114
+msgid "Choose the Video Category or leave for default."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:170
+#: ../includes/composer/widgets/post1col.php:125
+msgid "Post Category"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:172
+#: ../includes/composer/widgets/post1col.php:127
+msgid "Choose the Post Category or leave for default."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:183
+#: ../includes/composer/widgets/post1col.php:138
+msgid "Post Tags"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:185
+#: ../includes/composer/widgets/post1col.php:140
+msgid ""
+"Set Post Tag to a comma separated list of Post Tag slug to only show those."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:195
+#: ../includes/composer/widgets/post1col.php:150
+msgid "Video Tags"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:197
+#: ../includes/composer/widgets/post1col.php:152
+msgid ""
+"Set Video Tag to a comma separated list of Video Tag ID to only show those."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:207
+#: ../includes/composer/widgets/post1col.php:162
+msgid "IDs"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:209
+#: ../includes/composer/widgets/post1col.php:164
+msgid ""
+"Set the Video/Post ID to a comma separated list of Video/Post ID to only "
+"show those."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:215
+#: ../includes/composer/widgets/post1col.php:170
+msgid "Authors"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:217
+#: ../includes/composer/widgets/post1col.php:172
+msgid ""
+"Set Author ID to a comma separated list of Video/Post to only show those."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:223
+#: ../includes/composer/widgets/post1col.php:178
+msgid "Date"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:225
+#: ../includes/composer/widgets/post1col.php:180
+msgid "Show posts associated with a certain time, (yyyy-mm-dd)"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:232
+#: ../includes/composer/widgets/post1col.php:187
+msgid "Today"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:233
+#: ../includes/composer/widgets/post1col.php:188
+msgid "Show posts today"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:240
+#: ../includes/composer/widgets/post1col.php:195
+msgid "This Week"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:241
+#: ../includes/composer/widgets/post1col.php:196
+msgid "Show posts this week"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:247
+#: ../includes/composer/widgets/post1col.php:202
+msgid "Order by"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:249
+#: ../includes/composer/widgets/post1col.php:204
+msgid "Order by Views/Likes is not available for the Regular Post."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:255
+#: ../includes/composer/widgets/post1col.php:210
+msgid "Order"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:263
+#: ../includes/composer/widgets/post1col.php:218
+msgid "Display the Page Navigation."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:271
+#: ../includes/composer/shortcodes/videotube_upload.php:96
+#: ../includes/composer/widgets/featured-video.php:33
+#: ../includes/composer/widgets/login-form.php:45
+#: ../includes/composer/widgets/post1col.php:226
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube.php:273
+#: ../includes/composer/shortcodes/videotube_upload.php:98
+#: ../includes/composer/widgets/featured-video.php:35
+#: ../includes/composer/widgets/login-form.php:47
+#: ../includes/composer/widgets/post1col.php:228
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:8
+msgid "Upload Form"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:14
+msgid "Video Upload Form."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:22
+msgid "This title is not displayed at Frontend."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:29
+msgid "Hide Category field"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:35
+msgid "Category Exclude"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:41
+msgid "A string of category ids to exclude, comma-separated ids."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:47
+msgid "Category Include"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:53
+msgid "A string of category ids to include, comma-separated ids."
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:59
+msgid "Category Order by"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:66
+msgid "ID"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:67
+msgid "Count"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:68
+msgid "Name"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:69
+msgid "Slug"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:76
+msgid "Category Order"
+msgstr ""
+
+#: ../includes/composer/shortcodes/videotube_upload.php:92
+msgid "Hide Tag field"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v1-2-columns-left-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Left Sidebar"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v1-2-columns-right-sidebar.php:6
+msgid "Homepage V1 - 2 Cols- Right Sidebar"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v2-fullwidth-3-columns.php:6
+msgid "Homepage V2 - Fullwidth - 3 Cols"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v3-fullwidth-4-columns.php:6
+msgid "Homepage V3 - Fullwidth - 4 Cols"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v4-fullwidth-6-columns.php:6
+msgid "Homepage V4 - Fullwidth - 6 Cols"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v5-1-column-left-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar - V2"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v5-1-column-left-sidebar.php:6
+msgid "Homepage V5 - 1Col - Left Sidebar"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v5-1-column-right-sidebar-v2.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar - V2"
+msgstr ""
+
+#: ../includes/composer/templates/homepage-v5-1-column-right-sidebar.php:6
+msgid "Homepage V5 - 1Col - Right Sidebar"
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:19
+msgid "VT Big Post"
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:24
+msgid "Display the One Big Post."
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:38
+msgid "Video/Post ID"
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:40
+msgid "Put the Post/Video ID"
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:48
+#, php-format
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full, %s. Leave empty "
+"to use \"blog-large-thumb\" size."
+msgstr ""
+
+#: ../includes/composer/widgets/big-post.php:54
+msgid "View more url"
+msgstr ""
+
+#: ../includes/composer/widgets/featured-video.php:11
+msgid "Featured Video Widget"
+msgstr ""
+
+#: ../includes/composer/widgets/featured-video.php:16
+msgid "Display the Featured Video Widget."
+msgstr ""
+
+#: ../includes/composer/widgets/featured-video.php:29
+msgid "Hide if empty"
+msgstr ""
+
+#: ../includes/composer/widgets/login-form.php:11
+msgid "VT Login Widget"
+msgstr ""
+
+#: ../includes/composer/widgets/login-form.php:13
+#: ../includes/composer/widgets/post1col.php:20
+#: ../includes/composer/widgets/social-count-plus.php:13
+#: ../includes/composer/widgets/socialsbox.php:13
+#: ../includes/composer/widgets/vt-tag-cloud.php:13
+msgid "WordPress Widgets"
+msgstr ""
+
+#: ../includes/composer/widgets/login-form.php:16
+msgid "Display the Login Form Widget."
+msgstr ""
+
+#: ../includes/composer/widgets/login-form.php:31
+msgid "Video Upload Page"
+msgstr ""
+
+#: ../includes/composer/widgets/login-form.php:39
+msgid "Profile Page"
+msgstr ""
+
+#: ../includes/composer/widgets/post1col.php:18
+msgid "Post 1 Column"
+msgstr ""
+
+#: ../includes/composer/widgets/post1col.php:23
+msgid "Display the 1 Column Post widget."
+msgstr ""
+
+#: ../includes/composer/widgets/post1col.php:71
+msgid "Auto Play"
+msgstr ""
+
+#: ../includes/composer/widgets/post1col.php:106
+#, php-format
+msgid ""
+"Enter image size. Example: <strong>%s , thumbnail, medium, large, full</"
+"strong> or other sizes defined by current theme. Alternatively enter image "
+"size in pixels: 200x100 (Width x Height). Leave empty to use \"video-featured"
+"\" size."
+msgstr ""
+
+#: ../includes/composer/widgets/social-count-plus.php:11
+msgid "Social Count Plus"
+msgstr ""
+
+#: ../includes/composer/widgets/social-count-plus.php:16
+msgid "Display the Social Count Plus widget."
+msgstr ""
+
+#: ../includes/composer/widgets/socialsbox.php:11
+msgid "VT Socials Box"
+msgstr ""
+
+#: ../includes/composer/widgets/socialsbox.php:16
+msgid "Display the Social count box."
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:11
+msgid "VT Tag Cloud"
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:16
+msgid "Display the Tags Cloud (Popular Keys) Widget."
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:30
+msgid "Taxonomies"
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:33
+msgid "Separated by commas(,)"
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:39
+msgid "Smallest Size"
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:46
+msgid "Largest Size"
+msgstr ""
+
+#: ../includes/composer/widgets/vt-tag-cloud.php:53
+msgid "Nmber Size"
+msgstr ""
+
+#: ../includes/documentation.php:9
+msgid "Documentation"
+msgstr ""
+
+#: ../includes/functions.php:120 ../includes/theme-options.php:305
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/functions.php:121
+msgid "twitter"
+msgstr ""
+
+#: ../includes/functions.php:122 ../includes/theme-options.php:317
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/functions.php:123 ../includes/theme-options.php:323
+msgid "Instagram"
+msgstr ""
+
+#: ../includes/functions.php:124 ../includes/theme-options.php:329
+msgid "Linkedin"
+msgstr ""
+
+#: ../includes/functions.php:125 ../includes/theme-options.php:335
+msgid "Tumblr"
+msgstr ""
+
+#: ../includes/functions.php:126 ../includes/theme-options.php:341
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/functions.php:127 ../includes/theme-options.php:347
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/functions.php:128 ../includes/theme-options.php:359
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/functions.php:129 ../includes/theme-options.php:365
+msgid "Snapchat"
+msgstr ""
+
+#: ../includes/functions.php:137
+msgid "Order by Post ID"
+msgstr ""
+
+#: ../includes/functions.php:138
+msgid "Order by author"
+msgstr ""
+
+#: ../includes/functions.php:139
+msgid "Order by title"
+msgstr ""
+
+#: ../includes/functions.php:140
+msgid "Order by Post name (Post slug)"
+msgstr ""
+
+#: ../includes/functions.php:141
+msgid "Order by date"
+msgstr ""
+
+#: ../includes/functions.php:142
+msgid "Order by last modified date"
+msgstr ""
+
+#: ../includes/functions.php:143
+msgid "Order by Random"
+msgstr ""
+
+#: ../includes/functions.php:144
+msgid "Order by number of comments"
+msgstr ""
+
+#: ../includes/functions.php:147
+msgid "Order by Views"
+msgstr ""
+
+#: ../includes/functions.php:148
+msgid "Order by Likes"
+msgstr ""
+
+#: ../includes/functions.php:163
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/functions.php:168 ../includes/functions.php:170
+#: ../includes/hooks.php:37 ../includes/hooks.php:68
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../includes/functions.php:176
+msgid "Reply"
+msgstr ""
+
+#: ../includes/functions.php:409
+msgid "Latest"
+msgstr ""
+
+#: ../includes/functions.php:410
+msgid "Viewed"
+msgstr ""
+
+#: ../includes/functions.php:411
+msgid "Liked"
+msgstr ""
+
+#: ../includes/functions.php:412 ../single-video.php:133
+msgid "Comments"
+msgstr ""
+
+#: ../includes/functions.php:414
+msgid "Sort by:"
+msgstr ""
+
+#: ../includes/functions.php:784
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/functions.php:871
+msgid "&larr; Previous "
+msgstr ""
+
+#: ../includes/functions.php:871
+msgid " &rarr; Previous"
+msgstr ""
+
+#: ../includes/functions.php:872
+msgid "Next &larr;"
+msgstr ""
+
+#: ../includes/functions.php:981 ../includes/theme-options.php:516
+msgid "Default"
+msgstr ""
+
+#: ../includes/functions.php:982
+msgid "Blue"
+msgstr ""
+
+#: ../includes/functions.php:983
+msgid "Splash Orange"
+msgstr ""
+
+#: ../includes/functions.php:984
+msgid "Orange"
+msgstr ""
+
+#: ../includes/functions.php:985
+msgid "Wood"
+msgstr ""
+
+#: ../includes/functions.php:986
+msgid "Splash Red"
+msgstr ""
+
+#: ../includes/functions.php:987
+msgid "Green"
+msgstr ""
+
+#: ../includes/functions.php:988
+msgid "Custom"
+msgstr ""
+
+#: ../includes/theme-options.php:26 ../includes/theme-options.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/theme-options.php:100
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: ../includes/theme-options.php:102
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: ../includes/theme-options.php:109
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:117
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ../includes/theme-options.php:119
+msgid "Logo (194*31px)"
+msgstr ""
+
+#: ../includes/theme-options.php:124 ../includes/theme-options.php:174
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:125
+msgid "Paste your CSS code here, no style tag."
+msgstr ""
+
+#: ../includes/theme-options.php:132
+msgid "Mobile Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:133
+msgid ""
+"Paste your CSS code here, no style tag, this CSS will effect to the site on "
+"Mobile."
+msgstr ""
+
+#: ../includes/theme-options.php:140
+msgid "Custom JS"
+msgstr ""
+
+#: ../includes/theme-options.php:141
+msgid "Paste your JS code here, no script tag, eg: alert('hello world');"
+msgstr ""
+
+#: ../includes/theme-options.php:148
+msgid "Mobile Custom JS"
+msgstr ""
+
+#: ../includes/theme-options.php:149
+msgid ""
+"Paste your JS code here, no script tag, this JS will effect to the site on "
+"Mobile eg: alert('hello world');"
+msgstr ""
+
+#: ../includes/theme-options.php:158
+msgid "Styling"
+msgstr ""
+
+#: ../includes/theme-options.php:166
+msgid "Style"
+msgstr ""
+
+#: ../includes/theme-options.php:167
+msgid "Choose the Style."
+msgstr ""
+
+#: ../includes/theme-options.php:175
+msgid ""
+"Write your CSS code here, no style tag, this will override to the default "
+"style."
+msgstr ""
+
+#: ../includes/theme-options.php:176
+msgid "This style will be lose if you reset the settings."
+msgstr ""
+
+#: ../includes/theme-options.php:185
+msgid "Header Background Color"
+msgstr ""
+
+#: ../includes/theme-options.php:186
+msgid "Pick a background color for the header (default: #ffffff)."
+msgstr ""
+
+#: ../includes/theme-options.php:194
+msgid "Body Background"
+msgstr ""
+
+#: ../includes/theme-options.php:195
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: ../includes/theme-options.php:201
+msgid "Body Text"
+msgstr ""
+
+#: ../includes/theme-options.php:214
+msgid "Headings"
+msgstr ""
+
+#: ../includes/theme-options.php:227
+msgid "Menu"
+msgstr ""
+
+#: ../includes/theme-options.php:240
+msgid "Widget Title Background"
+msgstr ""
+
+#: ../includes/theme-options.php:241
+msgid ""
+"Pick a background color for the Widget title (default: #e73737), only for "
+"Right Widget."
+msgstr ""
+
+#: ../includes/theme-options.php:248
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../includes/theme-options.php:249
+msgid ""
+"Pick a color for the Widget title (default: #e73737), only for Right Widget"
+msgstr ""
+
+#: ../includes/theme-options.php:256
+msgid "Header Navigation Background"
+msgstr ""
+
+#: ../includes/theme-options.php:257
+msgid ""
+"Pick a background color for the Header Navigation (Header Menu) (default: "
+"#4c5358)."
+msgstr ""
+
+#: ../includes/theme-options.php:264
+msgid "Header Navigation Color"
+msgstr ""
+
+#: ../includes/theme-options.php:265
+msgid ""
+"Pick a color for the Header Navigation (Header Menu) (default: #4c5358)."
+msgstr ""
+
+#: ../includes/theme-options.php:272
+msgid "Footer Background"
+msgstr ""
+
+#: ../includes/theme-options.php:273
+msgid "Pick a background color for the footer (default: #111111)."
+msgstr ""
+
+#: ../includes/theme-options.php:280
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../includes/theme-options.php:281
+msgid "Pick a color for Text in the footer (default: #ffffff)."
+msgstr ""
+
+#: ../includes/theme-options.php:291
+msgid "Socials"
+msgstr ""
+
+#: ../includes/theme-options.php:298
+msgid "Allow Guest to Like"
+msgstr ""
+
+#: ../includes/theme-options.php:300 ../includes/theme-options.php:390
+#: ../includes/theme-options.php:458 ../includes/theme-options.php:465
+#: ../includes/theme-options.php:534 ../includes/theme-options.php:543
+msgid "Yes"
+msgstr ""
+
+#: ../includes/theme-options.php:301 ../includes/theme-options.php:391
+#: ../includes/theme-options.php:459 ../includes/theme-options.php:465
+#: ../includes/theme-options.php:535 ../includes/theme-options.php:544
+msgid "No"
+msgstr ""
+
+#: ../includes/theme-options.php:307
+msgid "Facebook Profile or Fanpage URL"
+msgstr ""
+
+#: ../includes/theme-options.php:311
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/theme-options.php:313
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/theme-options.php:319
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../includes/theme-options.php:325
+msgid "Instagram URL"
+msgstr ""
+
+#: ../includes/theme-options.php:331
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/theme-options.php:337
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../includes/theme-options.php:343
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/theme-options.php:349
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../includes/theme-options.php:353
+msgid "Soundcloud"
+msgstr ""
+
+#: ../includes/theme-options.php:355
+msgid "Soundcloud URL"
+msgstr ""
+
+#: ../includes/theme-options.php:361
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../includes/theme-options.php:367
+msgid "Snapchat URL"
+msgstr ""
+
+#: ../includes/theme-options.php:380
+msgid "Submit Form"
+msgstr ""
+
+#: ../includes/theme-options.php:387
+msgid "Allow Guest submit the video."
+msgstr ""
+
+#: ../includes/theme-options.php:388
+msgid ""
+"By default, Only register can submit the video, you can limit the role in "
+"below selectbox"
+msgstr ""
+
+#: ../includes/theme-options.php:397
+msgid "Video Type"
+msgstr ""
+
+#: ../includes/theme-options.php:398
+msgid "Choose the Video Type, which is available in Submit Form at Frontend."
+msgstr ""
+
+#: ../includes/theme-options.php:399
+msgid "File"
+msgstr ""
+
+#: ../includes/theme-options.php:404
+msgid "Video File Size"
+msgstr ""
+
+#: ../includes/theme-options.php:407
+#, php-format
+msgid ""
+"The maximum video file size allowed, 10MB is default size, this size must be "
+"smaller than %sMB"
+msgstr ""
+
+#: ../includes/theme-options.php:414
+msgid "Preview Image Size"
+msgstr ""
+
+#: ../includes/theme-options.php:417
+#, php-format
+msgid ""
+"The maximum Preview Image size allowed, 2MB is default size, this size must "
+"be smaller than %sMB"
+msgstr ""
+
+#: ../includes/theme-options.php:426
+msgid "Redirect to"
+msgstr ""
+
+#: ../includes/theme-options.php:427
+msgid "Redirect the user to this page when successfully submitted the video."
+msgstr ""
+
+#: ../includes/theme-options.php:432
+msgid "Assignment User"
+msgstr ""
+
+#: ../includes/theme-options.php:433
+msgid ""
+"The video will be assigned for this user if you allow Guest Submit The Video."
+msgstr ""
+
+#: ../includes/theme-options.php:442
+msgid "Who can submit the video?"
+msgstr ""
+
+#: ../includes/theme-options.php:443
+msgid "You can choose one or multi-roles to limit the permission."
+msgstr ""
+
+#: ../includes/theme-options.php:448
+msgid "Default Video Status"
+msgstr ""
+
+#: ../includes/theme-options.php:449
+msgid "The Public status will be shown on Frontend."
+msgstr ""
+
+#: ../includes/theme-options.php:450
+msgid "Publish"
+msgstr ""
+
+#: ../includes/theme-options.php:450
+msgid "Pending"
+msgstr ""
+
+#: ../includes/theme-options.php:450
+msgid "draft"
+msgstr ""
+
+#: ../includes/theme-options.php:456
+msgid "Use WP Visual Editor"
+msgstr ""
+
+#: ../includes/theme-options.php:464
+msgid "Show the Layout dropdown"
+msgstr ""
+
+#: ../includes/theme-options.php:474
+msgid "Misc"
+msgstr ""
+
+#: ../includes/theme-options.php:481
+msgid "Video Slug"
+msgstr ""
+
+#: ../includes/theme-options.php:483 ../includes/theme-options.php:490
+#: ../includes/theme-options.php:497
+msgid "Settings/Permalink"
+msgstr ""
+
+#: ../includes/theme-options.php:488
+msgid "Video Category Slug"
+msgstr ""
+
+#: ../includes/theme-options.php:495
+msgid "Video Tag Slug"
+msgstr ""
+
+#: ../includes/theme-options.php:503
+msgid "Login/Register page"
+msgstr ""
+
+#: ../includes/theme-options.php:504
+msgid ""
+"Using [videotube_login] shortcode in the page to display the Login/Register "
+"form."
+msgstr ""
+
+#: ../includes/theme-options.php:509
+msgid "Feeds"
+msgstr ""
+
+#: ../includes/theme-options.php:510
+msgid "Including the Video in Feed Page."
+msgstr ""
+
+#: ../includes/theme-options.php:515
+msgid "Time format"
+msgstr ""
+
+#: ../includes/theme-options.php:516
+msgid "Diffing"
+msgstr ""
+
+#: ../includes/theme-options.php:523
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../includes/theme-options.php:524
+msgid "16by9"
+msgstr ""
+
+#: ../includes/theme-options.php:524
+msgid "4by3"
+msgstr ""
+
+#: ../includes/theme-options.php:531
+msgid "AutoPlay"
+msgstr ""
+
+#: ../includes/theme-options.php:532
+msgid "Works for youtube and video self-hosted file."
+msgstr ""
+
+#: ../includes/theme-options.php:540
+msgid "User Channel"
+msgstr ""
+
+#: ../includes/theme-options.php:541
+msgid "Activate the channel page."
+msgstr ""
+
+#: ../includes/theme-options.php:551
+msgid "Footer"
+msgstr ""
+
+#: ../includes/theme-options.php:557
+msgid "Copyright Text"
+msgstr ""
+
+#: ../includes/theme-options.php:571
+msgid "Purchase Code"
+msgstr ""
+
+#: ../includes/theme-options.php:576
+msgid "Personal Access Token"
+msgstr ""
+
+#: ../includes/theme-options.php:577
+#, php-format
+msgid "Get one key %s"
+msgstr ""
+
+#: ../includes/theme-options.php:577
+msgid "here"
+msgstr ""
+
+#: ../index.php:17 ../tag.php:20
+msgid "Not found."
+msgstr ""
+
+#: ../search.php:12
+#, php-format
+msgid "About %s results"
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "About %s result"
+msgstr ""
+
+#: ../search.php:30
+msgid "Nothing Found."
+msgstr ""
+
+#: ../single-video.php:140
+msgid "Share"
+msgstr ""
+
+#: ../single-video.php:156
+msgid "Turn off Light"
+msgstr ""
+
+#: ../single-video.php:178
+#, php-format
+msgid "I saw this and thought of you! %s"
+msgstr ""
+
+#: ../single-video.php:187
+#, php-format
+msgid "Published on %s by %s"
+msgstr ""
+
+#: ../single-video.php:198
+msgid "Read more"
+msgstr ""
+
+#: ../single-video.php:202
+msgid "Read less"
+msgstr ""
+
+#: ../single-video.php:229 ../single.php:45
+msgid "Tag"
+msgstr ""
+
+#: ../tpl-rolling.php:66
+msgid "Oop...nothing."
+msgstr ""

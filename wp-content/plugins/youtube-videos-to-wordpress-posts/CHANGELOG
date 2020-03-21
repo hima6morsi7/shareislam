@@ -1,0 +1,66 @@
+1.0.1:
+	- Updated plugin to use Wordpress user capabilities.
+
+1.1.0:
+        - Added OpenSSL extension check.
+        - Added ability to schedule existing videos when 'update if exist' is a set to 'yes'.
+        - Added ability to change 'Publish start date' in the scheduling options.
+        - Updated embed options tab design for more readability.
+        - Added ability to Import video description as post excerpt.
+        - Added ability to parse a video fields as custom field values.
+        - Added ability to import/export import settings.
+        - Added the option to skip videos with the same title.
+1.1.1
+        - Changed from PHP short array syntax to normal. (to support PHP 5.2)
+2.1.1
+        - Added logging capabilities for system and schedule import errors.
+        - Added new system for scheduling imports (you can choose between using Wordpress cron jobs, or system native cron jobs).   
+        - Added ability to Set post publish date to insert date, video publish date or a custom date).
+        - Added ability to choose your import type (paginated Import, bulk Import or scheduled Import) inside the feed options tab.
+        - Stored all video datas (viewsCount , countDislike, countLike, etc) in the custom field "yvtwp_video_datas" for every post. This useful in case you decided to use them later.         
+        - Add a unique prefix (yvtwp_) for all the plugin settings to avoid any conflict with other plugins.
+2.1.2
+        - Fix localization bugs.
+        - Added ability to deregister all other plugins scripts and styles when yvtwp pages are loaded.
+2.1.4
+        - Fixed Errors related to Wordpress 4.4 update.
+2.1.5
+        - Fixed Errors related to separator used in the custom fields.
+3.0.0
+        - Added importing comments functionality.
+        - Added the ability to update all single video imports at once.
+        - Added the ability to limit the number of imported videos in each feed.
+        - Added the ability to only import videos that are published after a certain date.
+        - Change the import algorithm for more flexibility and rapidity.
+        - Set the Wordpress embed code by default. (This is useful if you have other plugins that triggered the embed code). 
+        - Added the ability to automatically update the plugin. (This requires you to install and configure the Envato WordPress Toolkit plugin.)
+        - Added the ability to choose the thumbnail size to import.
+        - Added the ability to check broken videos.
+3.0.1
+        - Fixed the change Developer key settings bug.
+3.0.2  
+        - Facilitated theme integration && Automatic support for popular video themes. View this link for more infos http://goo.gl/jGhBW0 .
+3.0.3   
+        - Using file_get_content to load themes settings from the Json file, when FS_CHMOD_FILE WP_Filesystem constant is not defined.
+3.0.4  
+        - Added the ability to disabled "Max videos to import" for the scheduling import.
+3.0.6   
+        - Fixed scheduling playlist import.
+        - Fixed Import videos published after a specific date.
+3.0.7
+        - Fixed a script conflict bug related to the categories dropdown menu in the general options tab.
+3.0.8
+        - Fixed delete keywords from description bug.
+4.0.0
+        - Added the ability to sync the videos datas.
+4.0.1
+        - Fixed translation bug.
+4.0.3
+        - Fixed video synchronisation bugs.
+        - Added a separate section for the video synchronization settings for a better organization.
+4.0.4
+        - Added the ability to import post excerpt.
+4.0.5
+        - Fixed  < [PHP 5.3] error "Class 'DateInterval' not found". 
+4.0.6
+        - Fixed taxonomy mapping bug when using the default post type 'post'.

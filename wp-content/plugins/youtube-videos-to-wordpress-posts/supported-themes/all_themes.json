@@ -1,0 +1,100 @@
+{
+    "items": {
+        "avada": 
+        {
+            "name": "Avada",
+            "link_view": "http://goo.gl/kxzgNo",
+            "doc_page": "documentation/popular-themes-integration/avada/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/169508866/screenshots/00_preview.__large_preview.jpg",
+            "description":"<a class=\"doc_title_theme\" href=\"http://goo.gl/kxzgNo\" target=\"_blank\">Avada </a>is the ultimate multi-purpose WordPress theme. It is clean, super flexible, responsive, includes Fusion Page Builder and comes packed with powerful options! This multi-purpose WordPress theme sets the new standard with <strong>endless possibilities</strong>, top-notch support, and <strong>incredible featured packed updates</strong> requested from our users. And its <strong>the most easy-to use theme</strong> on the market! Avada is very intuitive to use and completely ready to operate out of the box. Built with HTML5 &amp; CSS3, a lot of thought and care went into this theme making it a pleasure to use."
+        },
+        "newspaper":
+        {
+            "name": "Newspaper",
+            "link_view": "http://goo.gl/xOq6ef",
+            "doc_page": "documentation/popular-themes-integration/newspaper/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/164867264/preview-images/1.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/xOq6ef\" target=\"_blank\">Newspaper</a> is a WordPress theme that lets you write posts&nbsp;and blog videos&nbsp;with ease. The Newspaper template is excellent for a news, newspaper, magazine, publishing or media&nbsp;site. It also supports videos from YouTube and features a rating system. So far, &nbsp;the theme is integrated with bbPress Forum, BuddyPress, Buddy Press, and WooCommerce. It uses the best clean SEO practices, and on top of that, it’s fast, simple, and easy to use. In addition, Newspaper supports responsive Google Ads and AdSense."
+        },
+        "sahifa":
+        {
+            "name": "Sahifa",
+            "link_view": "http://goo.gl/zG57OX",
+            "doc_page": "documentation/popular-themes-integration/sahifa/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/169412736/ScreenShots/01_preview1.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/zG57OX\" target=\"_blank\">Sahifa</a> is the first selling WordPress blog and magazine theme on <a href=\"http://goo.gl/wGDFpE\" target=\"_blank\">Themeforest</a>. The <strong><a href=\"http://goo.gl/kgx9CX\" target=\"_blank\">Youtube Videos to WordPress Posts</a></strong> integrate really with it using custom fields integration offered by the theme."
+        },
+        "truemag":
+        {
+            "name": "True Mag",
+            "link_view": "http://goo.gl/uhXt3o",
+            "doc_page": "documentation/popular-themes-integration/truemag/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/114073456/01_theme_preview.__large_preview.jpg",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/uhXt3o\" target=\"_blank\">True Mag</a> is an amazing <strong>WordPress theme for videos</strong> which comes with great video features. Some of those features include: Built-in Video Ads plugin, Short-codes for Video, Video Auto Play, Self-hosted Video Support, Front-end Video Submission and many Built-in Video Widgets. Moreover, our <strong>responsive video portfolio theme</strong> offers a Smart Content Box and Powerful Theme Options, which allow you to add content and customize the theme as you want."
+        },
+        "videotube":
+        {
+            "name": "VideoTube",
+            "link_view": "http://goo.gl/s59JVZ",
+            "doc_page": "documentation/popular-themes-integration/videotube/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/85888648/screenshots/01_Preview.__large_preview.png",
+            "description": ""
+        },  
+        "valenti":
+        {
+            "name": "Valenti",
+            "link_view": "http://goo.gl/qImmdM",
+            "doc_page": "documentation/popular-themes-integration/videotube/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/167445735/valenti_preview_v5_2.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/qImmdM\" target=\"_blank\">Valenti</a> is a cutting-edge, feature-rich Wordpress premium HD (retina-ready) review magazine theme that is fully-responsive. Using the exclusive Valenti Drag & Drop Builder users can have fun creating a unique homepage and easily make modifications to it any time they wish. With Valenti’s powerful and integrated reviews system and widget, you can use Valenti fully as a review theme too. Valenti also comes with a unique megamenu system for beautiful drop down menus and also the ability to set the featured image of a post to have a parallax effect."
+        }, 
+        "enfold":
+        {
+            "name": "Enfold",
+            "link_view": "http://goo.gl/JLZ2fY",
+            "doc_page": "documentation/popular-themes-integration/enfold/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/126371989/1_preview.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/JLZ2fY\" target=\"_blank\">Enfold</a> - Responsive Multi-Purpose Theme."
+        },  
+        "simplemag":
+        {
+            "name": "SimpleMag",
+            "link_view": "http://goo.gl/grBvMy",
+            "doc_page": "documentation/popular-themes-integration/simplemag/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/170038863/simplemag-preview.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/grBvMy\" target=\"_blank\">Enfold</a> - Magazine theme for creative stuff."
+        },          
+        "goodwork":
+        {
+            "name": "GoodWork",
+            "link_view": "http://goo.gl/pcb3zc",
+            "doc_page": "documentation/popular-themes-integration/goodwork/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/96303543/01_Preview.__large_preview.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/pcb3zc\" target=\"_blank\">GoodWork</a> is the <strong>absolutely ultimate theme</strong> for your business! It is an <strong>elegant &amp; modern</strong> solution packed up with an incredibly great amount of <strong>high quality features</strong>. Shortcodes, sliders, layout builders, theme options, page templates, <strong>multilanguage</strong> support, <strong>responsiveness and retina ready</strong>, etc., are all in here! <strong>Beautiful outside</strong> backed by a great framework and <strong>supported</strong> by professionals, this is the <strong>all in one</strong> WordPress solution for <strong>your business</strong>!!"
+        },   
+        "videozoom":
+        {
+            "name": "Videozoom",
+            "link_view": "http://goo.gl/NBGjAK",
+            "doc_page": "documentation/popular-themes-integration/videozoom/",
+            "envato_img_link": "http://www.wpzoom.com/wp-content/uploads/2010/10/videozoom40-595x415.png",
+            "description": "<a class=\"doc_title_theme\" href=\"http://goo.gl/NBGjAK\" target=\"_blank\">Videozoom</a> is a powerful video theme which allows you to showcase videos from all across the web. The flexible slider and support for self-hosted videos makes Videozoom the perfect choice."
+        },   
+        "video_member_wordpress_theme":
+        {
+            "name": "Video Member",
+            "link_view": "http://www.inkthemes.com/offers/video-membership-wordpress-solution/",
+            "doc_page": "documentation/popular-themes-integration/video-member/",
+            "envato_img_link": "http://www.inkthemes.com/offers/video-membership-wordpress-solution/images/img-10.png",
+            "description": ""
+        },
+        "mightymag":
+        {
+            "name": "MightyMag - Magazine",
+            "link_view": "http://goo.gl/63oz5N",
+            "doc_page": "documentation/popular-themes-integration/mightymag/",
+            "envato_img_link": "https://image-tf.s3.envato.com/files/183900082/01_preview.__large_preview.png",
+            "description": "MightyMag is a complete solution for your blog, newspaper, magazine, editorial, publishing or review site"
+        }               
+    }
+}

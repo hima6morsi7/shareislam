@@ -1,0 +1,2 @@
+- Add a separate file for cron job, this will useful to avoid conflict with others plugins
+that is based to the Wordpress cron job.
